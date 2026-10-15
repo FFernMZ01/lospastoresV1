@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Menu | Restaurante Los Pastores, Fort Worth, TX</title>
+  <meta name="description"
+    content="Explore the complete Los Pastores menu: breakfast, dinner plates, birria, seafood, tacos, tortas, desserts, drinks, and more.">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" href="images/logo32.png">
+  <link rel="icon" href="images/logo256.png">
+  <link rel="apple-touch-icon" href="images/logo256.png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/styles.css?v=10" rel="stylesheet">
+</head>
+
+<body class="lp-menu-page">
+  <header class="lp-header sticky-top">
+    <nav class="navbar navbar-expand-lg lp-navbar" aria-label="Main navigation">
+      <div class="container">
+        <a class="navbar-brand d-lg-none" href="index.html">
+          <img src="images/logo_color.png" alt="Los Pastores" class="logo">
+        </a>
+        <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse"
+          data-bs-target="#lpNavbar" aria-controls="lpNavbar" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="lpNavbar">
+          <ul class="navbar-nav lp-nav-group">
+            <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="menu.html">Menu</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+          </ul>
+          <a class="navbar-brand lp-center-logo d-none d-lg-flex" href="index.html">
+            <img src="images/logo_color.png" alt="Los Pastores" class="logo">
+          </a>
+          <ul class="navbar-nav lp-nav-group">
+            <li class="nav-item"><a class="nav-link" href="catering.html">Reservations</a></li>
+            <li class="nav-item"><a class="nav-link" href="jobs.html">Jobs</a></li>
+            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+          </ul>
+          <a href="/order" class="lp-order-btn">Order Online</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="lp-menu-hero" aria-labelledby="menu-title">
+      <img class="lp-menu-corner lp-menu-corner-sun" src="svg/sun-corner.svg" alt="" aria-hidden="true">
+      <div class="lp-container lp-menu-hero-grid">
+        <div class="lp-menu-hero-copy">
+          <span class="lp-section-eyebrow">Nuestra Cocina</span>
+          <h1 id="menu-title">The complete<br>Los Pastores menu.</h1>
+          <p>From all-day breakfast to birria, seafood, dinner plates, tacos, and something sweet—find every item from
+            our restaurant menu below.</p>
+          <a class="lp-hero-btn" href="#breakfast">Explore the Menu</a>
+        </div>
+        <div class="lp-menu-hero-media">
+          <img src="images/TACO HARINA ASADA1.webp" alt="Carne asada tacos served with onions, cilantro, and lime"
+            fetchpriority="high">
+          <div class="lp-menu-hero-badge"><span>Made with</span><strong>Tradición</strong></div>
+        </div>
+      </div>
+    </section>
+
+    <div class="lp-menu-browser" data-menu-browser>
+      <div class="lp-container">
+        <div class="lp-menu-browser-layout">
+          <aside class="lp-menu-sidebar" aria-label="Choose a menu group">
+            <span class="lp-section-eyebrow">Browse our menu</span>
+            <h2>Menu Groups</h2>
+            <div class="lp-menu-category-list" role="tablist" aria-label="Menu groups">
+              <button type="button" class="lp-menu-category-button is-active" role="tab" id="menu-tab-breakfast" aria-controls="breakfast" aria-selected="true" data-menu-target="breakfast">Breakfast</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-gorditas-burritos" aria-controls="gorditas-burritos" aria-selected="false" data-menu-target="gorditas-burritos" tabindex="-1">Gorditas &amp; Burritos</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-dinner" aria-controls="dinner" aria-selected="false" data-menu-target="dinner" tabindex="-1">Dinner Plates</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-birria" aria-controls="birria" aria-selected="false" data-menu-target="birria" tabindex="-1">Birria</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-seafood" aria-controls="seafood" aria-selected="false" data-menu-target="seafood" tabindex="-1">Seafood</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-quesadillas" aria-controls="quesadillas" aria-selected="false" data-menu-target="quesadillas" tabindex="-1">Quesadillas</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-tortas" aria-controls="tortas" aria-selected="false" data-menu-target="tortas" tabindex="-1">Tortas</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-burgers-salad" aria-controls="burgers-salad" aria-selected="false" data-menu-target="burgers-salad" tabindex="-1">Burgers &amp; Salad</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-tacos" aria-controls="tacos" aria-selected="false" data-menu-target="tacos" tabindex="-1">Tacos</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-kids" aria-controls="kids" aria-selected="false" data-menu-target="kids" tabindex="-1">Kids</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-desserts" aria-controls="desserts" aria-selected="false" data-menu-target="desserts" tabindex="-1">Desserts</button>
+              <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-beverages" aria-controls="beverages" aria-selected="false" data-menu-target="beverages" tabindex="-1">Beverages</button>
+            </div>
+          </aside>
+          <div class="lp-menu-panels">
+
+    <section id="breakfast" class="lp-menu-section lp-menu-section-cream is-active" role="tabpanel" aria-labelledby="menu-tab-breakfast" data-menu-panel>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading">
+          <div>
+            <span class="lp-section-eyebrow">Breakfast served all day</span>
+            <h2>Breakfast</h2>
+          </div>
+          <figure class="lp-menu-section-photo">
+            <img src="images/HUEVOS RANCHEROS1.webp" alt="Huevos rancheros with rice and beans" loading="lazy">
+          </figure>
+        </div>
+        <div class="lp-menu-grid">
+          <article class="lp-menu-item"><div><h3>Huevos Rancheros</h3><p>Two eggs over easy with ranchero sauce.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Machacado con Huevo</h3><p>Scrambled eggs with meat, serrano, onions and tomato.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Huevos Divorciados</h3><p>Two eggs over easy with red and green sauce.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Chilaquiles</h3><p>Your choice of red or green sauce.</p></div><strong>$13.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Huevos a la Mexicana</h3><p>With serrano, tomato and onion.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Huevos con Jamón</h3><p>Scrambled eggs with ham.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Chilaquiles Divorciados</h3><p>Chilaquiles with red and green salsa.</p></div><strong>$13.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Huevos con Chorizo</h3><p>Scrambled eggs with chorizo.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Migas</h3><p>Egg and fried tortilla mixture with tomato, onion and serrano pepper.</p></div><strong>$13.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Huevos con Salchicha Eckridge</h3><p>Scrambled eggs with Eckridge sausage.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Tacos de Desayuno</h3><p>Breakfast tacos of your choice. $0.65 per extra ingredient.</p></div><strong>$3.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Gorditas de Desayuno</h3><p>Breakfast gorditas of your choice.</p></div><strong>$4.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Burritos de Desayuno</h3><p>Breakfast burritos of your choice. $0.65 per extra ingredient.</p></div><strong>$9.49</strong></article>
+          <article class="lp-menu-item lp-menu-item-feature"><div><span class="lp-menu-tag">Saturday &amp; Sunday</span><h3>Menudo</h3></div><strong>Weekend</strong></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="gorditas-burritos" class="lp-menu-section lp-menu-section-light" role="tabpanel" aria-labelledby="menu-tab-gorditas-burritos" data-menu-panel hidden>
+      <img class="lp-menu-corner lp-menu-corner-agave" src="svg/agave-corner.svg" alt="" aria-hidden="true">
+      <div class="lp-container">
+        <div class="lp-menu-section-heading lp-menu-section-heading-simple">
+          <div><span class="lp-section-eyebrow">Handheld favorites</span><h2>Gorditas &amp; Burritos</h2></div>
+        </div>
+        <div class="lp-menu-subsection">
+          <h3 class="lp-menu-subtitle">Gorditas</h3>
+          <div class="lp-menu-grid">
+            <article class="lp-menu-item"><div><h3>Frijol con Queso</h3></div><strong>$4.99</strong></article>
+            <article class="lp-menu-item"><div><h3>Carne con Nopales</h3></div><strong>$4.99</strong></article>
+            <article class="lp-menu-item"><div><h3>Fajitas</h3></div><strong>$4.99</strong></article>
+          </div>
+        </div>
+        <div class="lp-menu-subsection">
+          <h3 class="lp-menu-subtitle">Burritos</h3>
+          <p class="lp-menu-note">Burritos include rice, beans, lettuce, tomato, cheese, and sour cream.</p>
+          <div class="lp-menu-grid">
+            <article class="lp-menu-item"><div><h3>Burritos de Fajitas</h3></div><strong>$10.99</strong></article>
+            <article class="lp-menu-item"><div><h3>Burritos de Carne</h3></div><strong>$9.50</strong></article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="dinner" class="lp-menu-section lp-menu-section-dark" role="tabpanel" aria-labelledby="menu-tab-dinner" data-menu-panel hidden>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading">
+          <div><span class="lp-section-eyebrow">Served with rice &amp; refried beans</span><h2>Dinner Plates</h2></div>
+          <figure class="lp-menu-section-photo"><img src="images/FAJITAS COMBINADAS1.webp" alt="Mixed fajitas with rice and beans" loading="lazy"></figure>
+        </div>
+        <div class="lp-menu-grid">
+          <article class="lp-menu-item"><div><h3>Enchiladas</h3><p>Beef, chicken, cheese, or Mexicanas.</p></div><strong>$13.95</strong></article>
+          <article class="lp-menu-item"><div><h3>La Indecisa — Chile Relleno con 2 Enchiladas</h3><p>Cheese-filled chile poblano with two enchiladas.</p></div><strong>$17.95</strong></article>
+          <article class="lp-menu-item"><div><h3>Pollo a la Mexicana</h3><p>Chicken with jalapeño salsa, tomato, and onion.</p></div><strong>$18.95</strong></article>
+          <article class="lp-menu-item"><div><h3>Caldo de Res</h3><p>Beef soup with potato, squash, and corn.</p></div><strong>$16.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Chile Relleno</h3></div><strong>$17.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Parrillada Res, Pollo &amp; Camarón</h3><p>Served with guacamole, sour cream, pico de gallo, and Eckrich sausage.</p></div><strong>$23.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Bistek Ranchero</h3><p>Beef tossed with onion, tomato, and jalapeños, then simmered in a tomato-based salsa.</p></div><strong>$15.59</strong></article>
+          <article class="lp-menu-item"><div><h3>Guisado de Carnitas</h3><p>Shredded pork simmered in a savory tomato and jalapeño-based salsa.</p></div><strong>$15.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Alambres</h3><p>Beef, chicken, shrimp, pico de gallo, sour cream, guacamole, and melted mozzarella.</p></div><strong>$25.49</strong></article>
+          <article class="lp-menu-item"><div><h3>Fajitas</h3><p>Chicken or beef with pico de gallo, guacamole, and sour cream.</p></div><strong>$24.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Fajitas Mixtas</h3><p>Chicken and beef with pico de gallo, guacamole, and sour cream.</p></div><strong>$24.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Fajitas Combinadas con Camarón</h3><p>Chicken, beef, and shrimp with pico de gallo, guacamole, and sour cream.</p></div><strong>$24.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Platillo de Carne</h3><p>Choice of asada, pastor, barbacoa, carnitas, shredded chicken, deshebrada, or chicharrón.</p></div><strong>$16.95</strong></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="birria" class="lp-menu-section lp-menu-section-cream" role="tabpanel" aria-labelledby="menu-tab-birria" data-menu-panel hidden>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading">
+          <div><span class="lp-section-eyebrow">Rich, slow-cooked flavor</span><h2>Birria</h2></div>
+          <figure class="lp-menu-section-photo"><img src="images/PT QUESABIRRIA1.webp" alt="Quesabirria with consommé" loading="lazy"></figure>
+        </div>
+        <div class="lp-menu-grid lp-menu-grid-three">
+          <article class="lp-menu-item"><div><h3>Quesa Birria</h3></div><strong>$9.75</strong></article>
+          <article class="lp-menu-item"><div><h3>Pizzabirria</h3></div><strong>$12.95</strong></article>
+          <article class="lp-menu-item"><div><h3>Rollitos de Birria</h3></div><strong>$11.95</strong></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="seafood" class="lp-menu-section lp-menu-section-light" role="tabpanel" aria-labelledby="menu-tab-seafood" data-menu-panel hidden>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading">
+          <div><span class="lp-section-eyebrow">Mariscos</span><h2>Seafood</h2></div>
+          <figure class="lp-menu-section-photo"><img src="images/CALDO DE MARISCOS1.webp" alt="Caldo de mariscos" loading="lazy"></figure>
+        </div>
+        <div class="lp-menu-grid">
+          <article class="lp-menu-item"><div><h3>Caldo de Mariscos</h3><p>Fish, shrimp, oyster, and octopus soup.</p></div><strong>$17.49</strong></article>
+          <article class="lp-menu-item"><div><h3>Caldo de Camarón o Pescado</h3><p>Shrimp or fish soup.</p></div><strong>$16.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Camarones a la Diabla o Ranchero</h3><p>Shrimp sautéed in spicy ranchero sauce.</p></div><strong>$19.95</strong></article>
+          <article class="lp-menu-item"><div><h3>Filete a la Diabla o Ranchero</h3><p>Fish filet sautéed in spicy or mild ranchero sauce.</p></div><strong>$16.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Camarones Empanizado</h3><p>Breaded shrimp with fries, salad, and rice.</p></div><strong>$18.50</strong></article>
+          <article class="lp-menu-item"><div><h3>Filete Empanizados</h3><p>Breaded fish filet with fries and rice.</p></div><strong>$18.95</strong></article>
+          <article class="lp-menu-item"><div><h3>Pescado Empanizado o Frito</h3><p>Whole breaded catfish.</p></div><strong>$20.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Vuelve a la Vida</h3><p>Shrimp, oyster, and octopus cocktail.</p></div><strong>$17.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Cocktel de Camarón</h3><p>Shrimp cocktail.</p></div><strong>$18.95</strong></article>
+          <article class="lp-menu-item"><div><h3>Tostada de Ceviche</h3></div><strong>$10.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Tostada de Camarón</h3></div><strong>$10.95</strong></article>
+        </div>
+        <p class="lp-menu-disclaimer">Consuming raw or undercooked meat, poultry, seafood, shellfish, or eggs may
+          increase your risk of foodborne illness, especially if you have certain medical conditions.</p>
+      </div>
+    </section>
+
+    <section id="quesadillas" class="lp-menu-section lp-menu-section-green" role="tabpanel" aria-labelledby="menu-tab-quesadillas" data-menu-panel hidden>
+      <img class="lp-menu-corner lp-menu-corner-sun-alt" src="svg/sun-corner.svg" alt="" aria-hidden="true">
+      <div class="lp-container">
+        <div class="lp-menu-section-heading lp-menu-section-heading-simple">
+          <div><span class="lp-section-eyebrow">Meat choices: asada, pastor, barbacoa, carnitas, shredded chicken</span><h2>Quesadillas</h2></div>
+        </div>
+        <div class="lp-menu-grid lp-menu-grid-three">
+          <article class="lp-menu-item"><div><h3>Quesadilla de Queso</h3></div><strong>$4.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Quesadilla de Fajita</h3></div><strong>$9.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Quesadilla de Lengua</h3></div><strong>$10.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Quesadilla de Carne</h3></div><strong>$8.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Quesadilla Chica</h3></div><strong>$5.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Quesadilla de Camarón</h3></div><strong>$12.99</strong></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="tortas" class="lp-menu-section lp-menu-section-cream" role="tabpanel" aria-labelledby="menu-tab-tortas" data-menu-panel hidden>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading lp-menu-section-heading-simple">
+          <div><span class="lp-section-eyebrow">Lettuce, tomato, cheese, mayonnaise &amp; avocado</span><h2>Tortas</h2><p class="lp-menu-note">Add a side of french fries for $0.75.</p></div>
+        </div>
+        <div class="lp-menu-grid">
+          <article class="lp-menu-item"><div><h3>Torta Cubana</h3><p>Adobada, ham, asada, and jalapeño.</p></div><strong>$10.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Torta Hawaiiana</h3><p>Ham, chorizo, sausage, milanesa, pineapple, and jalapeño.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Torta Pastor</h3></div><strong>$9.50</strong></article>
+          <article class="lp-menu-item"><div><h3>Torta Asada</h3></div><strong>$9.50</strong></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="burgers-salad" class="lp-menu-section lp-menu-section-light" role="tabpanel" aria-labelledby="menu-tab-burgers-salad" data-menu-panel hidden>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading lp-menu-section-heading-simple">
+          <div><span class="lp-section-eyebrow">Familiar favorites</span><h2>Hamburgers &amp; Salad</h2></div>
+        </div>
+        <div class="lp-menu-grid lp-menu-grid-three">
+          <article class="lp-menu-item"><div><h3>Hamburguesa Mexicana</h3><p>Beef patty, ham, cheese, jalapeño, avocado, mustard, mayonnaise, tomato, lettuce, and fries.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Hamburguesa Regular</h3><p>Beef patty, cheese, lettuce, tomato, onion, mayonnaise, and fries.</p></div><strong>$9.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Ensalada Fajita de Pollo</h3><p>Chicken fajita salad.</p></div><strong>$11.25</strong></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="tacos" class="lp-menu-section lp-menu-section-dark" role="tabpanel" aria-labelledby="menu-tab-tacos" data-menu-panel hidden>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading">
+          <div><span class="lp-section-eyebrow">Corn or flour tortilla</span><h2>Tacos</h2></div>
+          <figure class="lp-menu-section-photo"><img src="images/TACO HARINA ASADA2.webp" alt="Carne asada taco" loading="lazy"></figure>
+        </div>
+        <div class="lp-menu-grid lp-menu-grid-three">
+          <article class="lp-menu-item"><div><h3>Asada</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item"><div><h3>Pastor</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item"><div><h3>Barbacoa</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item"><div><h3>Carnitas</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item"><div><h3>Deshebrada</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item"><div><h3>Pollo Deshebrada</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item"><div><h3>Guiso de Chicharrón</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item"><div><h3>Milanesa</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item"><div><h3>Lengua</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item"><div><h3>Fajita</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$3.99</strong></span><span>Harina <strong>$4.99</strong></span></div></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="kids" class="lp-menu-section lp-menu-section-cream" role="tabpanel" aria-labelledby="menu-tab-kids" data-menu-panel hidden>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading lp-menu-section-heading-simple"><div><span class="lp-section-eyebrow">For the little ones</span><h2>Kids</h2></div></div>
+        <div class="lp-menu-grid">
+          <article class="lp-menu-item"><div><h3>Enchilada de Queso</h3></div><strong>$6.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Desayuno de Niño</h3></div><strong>$6.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Cheese Quesadilla</h3></div><strong>$5.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Chicken Strips &amp; Fries or Rice</h3></div><strong>$8.99</strong></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="desserts" class="lp-menu-section lp-menu-section-light" role="tabpanel" aria-labelledby="menu-tab-desserts" data-menu-panel hidden>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading lp-menu-section-heading-simple"><div><span class="lp-section-eyebrow">A sweet finish</span><h2>Desserts</h2></div></div>
+        <div class="lp-menu-grid">
+          <article class="lp-menu-item"><div><h3>Mini Churros (4)</h3><p>Includes one scoop of vanilla ice cream.</p></div><strong>$5.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Chocoflan</h3></div><strong>$6.50</strong></article>
+          <article class="lp-menu-item"><div><h3>Pastel de Tres Leches</h3></div><strong>$6.50</strong></article>
+          <article class="lp-menu-item"><div><h3>Nieve de Vainilla</h3></div><strong>$2.50</strong></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="beverages" class="lp-menu-section lp-menu-section-green" role="tabpanel" aria-labelledby="menu-tab-beverages" data-menu-panel hidden>
+      <div class="lp-container">
+        <div class="lp-menu-section-heading lp-menu-section-heading-simple"><div><span class="lp-section-eyebrow">Cold &amp; refreshing</span><h2>Beverages</h2></div></div>
+        <div class="lp-menu-grid">
+          <article class="lp-menu-item"><div><h3>Coffee</h3></div><strong>$2.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Fresh Orange Juice — 32 oz.</h3></div><strong>Market price</strong></article>
+          <article class="lp-menu-item"><div><h3>Aguas Frescas</h3><p>No refills.</p></div><strong>$4.49</strong></article>
+          <article class="lp-menu-item"><div><h3>Jarritos / Coca-Cola Mexicana</h3></div><strong>$4.25</strong></article>
+          <article class="lp-menu-item"><div><h3>Chocolate Milk</h3></div><strong>$1.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Apple Juice</h3></div><strong>$1.99</strong></article>
+          <article class="lp-menu-item"><div><h3>Iced Tea / Sweet Tea</h3></div><strong>$2.69</strong></article>
+          <article class="lp-menu-item"><div><h3>Soft Drinks</h3><p>Sprite, Orange Fanta, Dr Pepper, Coca-Cola, and Diet Coke.</p></div><strong>$2.69</strong></article>
+        </div>
+        <div class="lp-menu-gratuity"><strong>Groups of 6 or more</strong><span>Tables of six people or more will be charged an 18% gratuity.</span></div>
+      </div>
+    </section>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="lp-menu-cta" aria-label="Order online">
+      <div class="lp-container lp-menu-cta-inner">
+        <div><span class="lp-section-eyebrow">Ready to order?</span><h2>Bring the flavor home.</h2></div>
+        <a href="/order" class="about-cta-button">Order Online <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="lp-footer" id="footer">
+    <img class="lp-footer-decoration" src="svg/sun-corner.svg" alt="" aria-hidden="true">
+    <div class="lp-container">
+      <div class="lp-footer-grid">
+        <div class="lp-footer-brand">
+          <a href="index.html" aria-label="Los Pastores home"><img src="images/logo_color.png" alt="Los Pastores Restaurante"></a>
+          <p>Authentic Mexican flavor, proudly served in Fort Worth.</p>
+        </div>
+        <div class="lp-footer-column">
+          <h2>Explore</h2><a href="menu.html">Menu</a><a href="about.html">About Us</a><a href="catering.html">Reservations</a><a href="jobs.html">Jobs</a>
+        </div>
+        <div class="lp-footer-column">
+          <h2>Visit</h2><address>3806 E Rosedale St<br>Fort Worth, TX</address><a href="https://maps.app.goo.gl/FUW6k1EJgzdEhxDu6" target="_blank" rel="noopener noreferrer">Get Directions</a>
+        </div>
+        <div class="lp-footer-column lp-footer-order">
+          <h2>Ready to eat?</h2><p>Bring Los Pastores to your table.</p><a href="/order" class="lp-order-btn">Order Online</a><a href="contact.html">Contact Us</a>
+        </div>
+      </div>
+      <div class="lp-footer-bottom"><span id="copyYear">© 2010 Los Pastores Restaurante. All Rights Reserved.</span><span>Hecho con orgullo en Fort Worth</span></div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script defer src="js/menu.js"></script>
+  <script defer src="js/app.js"></script>
+</body>
+
+</html>
