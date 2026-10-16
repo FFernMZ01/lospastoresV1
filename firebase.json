@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "kukipos-project3",
     "public": "public",
     "ignore": [
       "firebase.json",

@@ -12,7 +12,9 @@
   <link rel="icon" href="images/logo256.png">
   <link rel="apple-touch-icon" href="images/logo256.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/styles.css?v=10" rel="stylesheet">
+  <link href="css/styles.css?v=11" rel="stylesheet">
+  <link href="css/site-updates.css?v=3" rel="stylesheet">
+  <link href="css/footer.css?v=1" rel="stylesheet">
 </head>
 
 <body class="lp-menu-page">
@@ -36,7 +38,7 @@
             <img src="images/logo_color.png" alt="Los Pastores" class="logo">
           </a>
           <ul class="navbar-nav lp-nav-group">
-            <li class="nav-item"><a class="nav-link" href="catering.html">Reservations</a></li>
+            <li class="nav-item"><a class="nav-link" href="catering.html">Catering</a></li>
             <li class="nav-item"><a class="nav-link" href="jobs.html">Jobs</a></li>
             <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
           </ul>
@@ -47,30 +49,15 @@
   </header>
 
   <main>
-    <section class="lp-menu-hero" aria-labelledby="menu-title">
-      <img class="lp-menu-corner lp-menu-corner-sun" src="svg/sun-corner.svg" alt="" aria-hidden="true">
-      <div class="lp-container lp-menu-hero-grid">
-        <div class="lp-menu-hero-copy">
-          <span class="lp-section-eyebrow">Nuestra Cocina</span>
-          <h1 id="menu-title">The complete<br>Los Pastores menu.</h1>
-          <p>From all-day breakfast to birria, seafood, dinner plates, tacos, and something sweet—find every item from
-            our restaurant menu below.</p>
-          <a class="lp-hero-btn" href="#breakfast">Explore the Menu</a>
-        </div>
-        <div class="lp-menu-hero-media">
-          <img src="images/TACO HARINA ASADA1.webp" alt="Carne asada tacos served with onions, cilantro, and lime"
-            fetchpriority="high">
-          <div class="lp-menu-hero-badge"><span>Made with</span><strong>Tradición</strong></div>
-        </div>
-      </div>
-    </section>
-
     <div class="lp-menu-browser" data-menu-browser>
       <div class="lp-container">
+        <header class="lp-menu-intro" aria-labelledby="menu-page-title">
+          <span class="lp-section-eyebrow">Made with tradition</span>
+          <h1 id="menu-page-title">Our Menu</h1>
+          <p>Explore authentic Mexican favorites, prepared fresh and served with the flavors of home.</p>
+        </header>
         <div class="lp-menu-browser-layout">
           <aside class="lp-menu-sidebar" aria-label="Choose a menu group">
-            <span class="lp-section-eyebrow">Browse our menu</span>
-            <h2>Menu Groups</h2>
             <div class="lp-menu-category-list" role="tablist" aria-label="Menu groups">
               <button type="button" class="lp-menu-category-button is-active" role="tab" id="menu-tab-breakfast" aria-controls="breakfast" aria-selected="true" data-menu-target="breakfast">Breakfast</button>
               <button type="button" class="lp-menu-category-button" role="tab" id="menu-tab-gorditas-burritos" aria-controls="gorditas-burritos" aria-selected="false" data-menu-target="gorditas-burritos" tabindex="-1">Gorditas &amp; Burritos</button>
@@ -95,19 +82,16 @@
             <span class="lp-section-eyebrow">Breakfast served all day</span>
             <h2>Breakfast</h2>
           </div>
-          <figure class="lp-menu-section-photo">
-            <img src="images/HUEVOS RANCHEROS1.webp" alt="Huevos rancheros with rice and beans" loading="lazy">
-          </figure>
         </div>
         <div class="lp-menu-grid">
-          <article class="lp-menu-item"><div><h3>Huevos Rancheros</h3><p>Two eggs over easy with ranchero sauce.</p></div><strong>$12.99</strong></article>
-          <article class="lp-menu-item"><div><h3>Machacado con Huevo</h3><p>Scrambled eggs with meat, serrano, onions and tomato.</p></div><strong>$12.99</strong></article>
-          <article class="lp-menu-item"><div><h3>Huevos Divorciados</h3><p>Two eggs over easy with red and green sauce.</p></div><strong>$12.99</strong></article>
-          <article class="lp-menu-item"><div><h3>Chilaquiles</h3><p>Your choice of red or green sauce.</p></div><strong>$13.99</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/HUEVOS RANCHEROS1.webp" alt="Huevos rancheros with rice and beans" loading="lazy"><div><h3>Huevos Rancheros</h3><p>Two eggs over easy with ranchero sauce.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/PT HUEVO MACHACADO1.webp" alt="Machacado con huevo with rice and beans" loading="lazy"><div><h3>Machacado con Huevo</h3><p>Scrambled eggs with meat, serrano, onions and tomato.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/HUEVOS DIVORCIADOS2.webp" alt="Huevos divorciados with red and green sauce" loading="lazy"><div><h3>Huevos Divorciados</h3><p>Two eggs over easy with red and green sauce.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/CHILAQUILES VERDES1.webp" alt="Chilaquiles verdes" loading="lazy"><div><h3>Chilaquiles</h3><p>Your choice of red or green sauce.</p></div><strong>$13.99</strong></article>
           <article class="lp-menu-item"><div><h3>Huevos a la Mexicana</h3><p>With serrano, tomato and onion.</p></div><strong>$12.99</strong></article>
           <article class="lp-menu-item"><div><h3>Huevos con Jamón</h3><p>Scrambled eggs with ham.</p></div><strong>$12.99</strong></article>
-          <article class="lp-menu-item"><div><h3>Chilaquiles Divorciados</h3><p>Chilaquiles with red and green salsa.</p></div><strong>$13.99</strong></article>
-          <article class="lp-menu-item"><div><h3>Huevos con Chorizo</h3><p>Scrambled eggs with chorizo.</p></div><strong>$12.99</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/CHILAQUILES DIVORCIADOS1.webp" alt="Chilaquiles divorciados" loading="lazy"><div><h3>Chilaquiles Divorciados</h3><p>Chilaquiles with red and green salsa.</p></div><strong>$13.99</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/HUEVO CON CHORIZO1.webp" alt="Huevos con chorizo" loading="lazy"><div><h3>Huevos con Chorizo</h3><p>Scrambled eggs with chorizo.</p></div><strong>$12.99</strong></article>
           <article class="lp-menu-item"><div><h3>Migas</h3><p>Egg and fried tortilla mixture with tomato, onion and serrano pepper.</p></div><strong>$13.99</strong></article>
           <article class="lp-menu-item"><div><h3>Huevos con Salchicha Eckridge</h3><p>Scrambled eggs with Eckridge sausage.</p></div><strong>$12.99</strong></article>
           <article class="lp-menu-item"><div><h3>Tacos de Desayuno</h3><p>Breakfast tacos of your choice. $0.65 per extra ingredient.</p></div><strong>$3.99</strong></article>
@@ -147,21 +131,20 @@
       <div class="lp-container">
         <div class="lp-menu-section-heading">
           <div><span class="lp-section-eyebrow">Served with rice &amp; refried beans</span><h2>Dinner Plates</h2></div>
-          <figure class="lp-menu-section-photo"><img src="images/FAJITAS COMBINADAS1.webp" alt="Mixed fajitas with rice and beans" loading="lazy"></figure>
         </div>
         <div class="lp-menu-grid">
-          <article class="lp-menu-item"><div><h3>Enchiladas</h3><p>Beef, chicken, cheese, or Mexicanas.</p></div><strong>$13.95</strong></article>
-          <article class="lp-menu-item"><div><h3>La Indecisa — Chile Relleno con 2 Enchiladas</h3><p>Cheese-filled chile poblano with two enchiladas.</p></div><strong>$17.95</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/ENCHILADAS VERDES1.webp" alt="Enchiladas verdes" loading="lazy"><div><h3>Enchiladas</h3><p>Beef, chicken, cheese, or Mexicanas.</p></div><strong>$13.95</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/LA INDECISA VERDES1.webp" alt="La Indecisa plate" loading="lazy"><div><h3>La Indecisa — Chile Relleno con 2 Enchiladas</h3><p>Cheese-filled chile poblano with two enchiladas.</p></div><strong>$17.95</strong></article>
           <article class="lp-menu-item"><div><h3>Pollo a la Mexicana</h3><p>Chicken with jalapeño salsa, tomato, and onion.</p></div><strong>$18.95</strong></article>
           <article class="lp-menu-item"><div><h3>Caldo de Res</h3><p>Beef soup with potato, squash, and corn.</p></div><strong>$16.99</strong></article>
-          <article class="lp-menu-item"><div><h3>Chile Relleno</h3></div><strong>$17.99</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/PT CHILE RELLENO1.webp" alt="Chile relleno plate" loading="lazy"><div><h3>Chile Relleno</h3></div><strong>$17.99</strong></article>
           <article class="lp-menu-item"><div><h3>Parrillada Res, Pollo &amp; Camarón</h3><p>Served with guacamole, sour cream, pico de gallo, and Eckrich sausage.</p></div><strong>$23.99</strong></article>
-          <article class="lp-menu-item"><div><h3>Bistek Ranchero</h3><p>Beef tossed with onion, tomato, and jalapeños, then simmered in a tomato-based salsa.</p></div><strong>$15.59</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/BISTEK RANCHERO.webp" alt="Bistek ranchero" loading="lazy"><div><h3>Bistek Ranchero</h3><p>Beef tossed with onion, tomato, and jalapeños, then simmered in a tomato-based salsa.</p></div><strong>$15.59</strong></article>
           <article class="lp-menu-item"><div><h3>Guisado de Carnitas</h3><p>Shredded pork simmered in a savory tomato and jalapeño-based salsa.</p></div><strong>$15.99</strong></article>
           <article class="lp-menu-item"><div><h3>Alambres</h3><p>Beef, chicken, shrimp, pico de gallo, sour cream, guacamole, and melted mozzarella.</p></div><strong>$25.49</strong></article>
           <article class="lp-menu-item"><div><h3>Fajitas</h3><p>Chicken or beef with pico de gallo, guacamole, and sour cream.</p></div><strong>$24.99</strong></article>
           <article class="lp-menu-item"><div><h3>Fajitas Mixtas</h3><p>Chicken and beef with pico de gallo, guacamole, and sour cream.</p></div><strong>$24.99</strong></article>
-          <article class="lp-menu-item"><div><h3>Fajitas Combinadas con Camarón</h3><p>Chicken, beef, and shrimp with pico de gallo, guacamole, and sour cream.</p></div><strong>$24.99</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/FAJITAS COMBINADAS1.webp" alt="Fajitas combinadas with shrimp" loading="lazy"><div><h3>Fajitas Combinadas con Camarón</h3><p>Chicken, beef, and shrimp with pico de gallo, guacamole, and sour cream.</p></div><strong>$24.99</strong></article>
           <article class="lp-menu-item"><div><h3>Platillo de Carne</h3><p>Choice of asada, pastor, barbacoa, carnitas, shredded chicken, deshebrada, or chicharrón.</p></div><strong>$16.95</strong></article>
         </div>
       </div>
@@ -171,12 +154,11 @@
       <div class="lp-container">
         <div class="lp-menu-section-heading">
           <div><span class="lp-section-eyebrow">Rich, slow-cooked flavor</span><h2>Birria</h2></div>
-          <figure class="lp-menu-section-photo"><img src="images/PT QUESABIRRIA1.webp" alt="Quesabirria with consommé" loading="lazy"></figure>
         </div>
         <div class="lp-menu-grid lp-menu-grid-three">
-          <article class="lp-menu-item"><div><h3>Quesa Birria</h3></div><strong>$9.75</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/PT QUESABIRRIA1.webp" alt="Quesabirria with consommé" loading="lazy"><div><h3>Quesa Birria</h3></div><strong>$9.75</strong></article>
           <article class="lp-menu-item"><div><h3>Pizzabirria</h3></div><strong>$12.95</strong></article>
-          <article class="lp-menu-item"><div><h3>Rollitos de Birria</h3></div><strong>$11.95</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/ROLLITOS DE BIRRIA1.webp" alt="Rollitos de birria" loading="lazy"><div><h3>Rollitos de Birria</h3></div><strong>$11.95</strong></article>
         </div>
       </div>
     </section>
@@ -185,10 +167,9 @@
       <div class="lp-container">
         <div class="lp-menu-section-heading">
           <div><span class="lp-section-eyebrow">Mariscos</span><h2>Seafood</h2></div>
-          <figure class="lp-menu-section-photo"><img src="images/CALDO DE MARISCOS1.webp" alt="Caldo de mariscos" loading="lazy"></figure>
         </div>
         <div class="lp-menu-grid">
-          <article class="lp-menu-item"><div><h3>Caldo de Mariscos</h3><p>Fish, shrimp, oyster, and octopus soup.</p></div><strong>$17.49</strong></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/CALDO DE MARISCOS1.webp" alt="Caldo de mariscos" loading="lazy"><div><h3>Caldo de Mariscos</h3><p>Fish, shrimp, oyster, and octopus soup.</p></div><strong>$17.49</strong></article>
           <article class="lp-menu-item"><div><h3>Caldo de Camarón o Pescado</h3><p>Shrimp or fish soup.</p></div><strong>$16.99</strong></article>
           <article class="lp-menu-item"><div><h3>Camarones a la Diabla o Ranchero</h3><p>Shrimp sautéed in spicy ranchero sauce.</p></div><strong>$19.95</strong></article>
           <article class="lp-menu-item"><div><h3>Filete a la Diabla o Ranchero</h3><p>Fish filet sautéed in spicy or mild ranchero sauce.</p></div><strong>$16.99</strong></article>
@@ -253,12 +234,11 @@
       <div class="lp-container">
         <div class="lp-menu-section-heading">
           <div><span class="lp-section-eyebrow">Corn or flour tortilla</span><h2>Tacos</h2></div>
-          <figure class="lp-menu-section-photo"><img src="images/TACO HARINA ASADA2.webp" alt="Carne asada taco" loading="lazy"></figure>
         </div>
         <div class="lp-menu-grid lp-menu-grid-three">
-          <article class="lp-menu-item"><div><h3>Asada</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/TACO HARINA ASADA2.webp" alt="Carne asada taco" loading="lazy"><div><h3>Asada</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
           <article class="lp-menu-item"><div><h3>Pastor</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
-          <article class="lp-menu-item"><div><h3>Barbacoa</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
+          <article class="lp-menu-item lp-menu-item-with-image"><img class="lp-menu-item-image" src="images/PT BARBACOA1.webp" alt="Barbacoa tacos" loading="lazy"><div><h3>Barbacoa</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
           <article class="lp-menu-item"><div><h3>Carnitas</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
           <article class="lp-menu-item"><div><h3>Deshebrada</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
           <article class="lp-menu-item"><div><h3>Pollo Deshebrada</h3></div><div class="lp-menu-option-prices"><span>Maíz <strong>$2.99</strong></span><span>Harina <strong>$3.99</strong></span></div></article>
@@ -324,25 +304,26 @@
     </section>
   </main>
 
-  <footer class="lp-footer" id="footer">
-    <img class="lp-footer-decoration" src="svg/sun-corner.svg" alt="" aria-hidden="true">
+  <footer class="lp-global-footer" id="footer">
     <div class="lp-container">
-      <div class="lp-footer-grid">
-        <div class="lp-footer-brand">
+      <div class="lp-global-footer-main">
+        <div class="lp-global-footer-brand">
           <a href="index.html" aria-label="Los Pastores home"><img src="images/logo_color.png" alt="Los Pastores Restaurante"></a>
-          <p>Authentic Mexican flavor, proudly served in Fort Worth.</p>
+          <p>Lo Mejor de Mexico en el patio de tu casa</p>
         </div>
-        <div class="lp-footer-column">
-          <h2>Explore</h2><a href="menu.html">Menu</a><a href="about.html">About Us</a><a href="catering.html">Reservations</a><a href="jobs.html">Jobs</a>
-        </div>
-        <div class="lp-footer-column">
-          <h2>Visit</h2><address>3806 E Rosedale St<br>Fort Worth, TX</address><a href="https://maps.app.goo.gl/FUW6k1EJgzdEhxDu6" target="_blank" rel="noopener noreferrer">Get Directions</a>
-        </div>
-        <div class="lp-footer-column lp-footer-order">
-          <h2>Ready to eat?</h2><p>Bring Los Pastores to your table.</p><a href="/order" class="lp-order-btn">Order Online</a><a href="contact.html">Contact Us</a>
+        <nav class="lp-global-footer-nav" aria-label="Footer navigation">
+          <a href="index.html">Home</a><a href="menu.html">Menu</a><a href="about.html">About Us</a><a href="catering.html">Catering</a><a href="jobs.html">Jobs</a><a href="contact.html">Contact</a>
+        </nav>
+        <div class="lp-global-footer-contact">
+          <a href="tel:+18170000000"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6.6 10.8a15.5 15.5 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.24c1.08.36 2.24.54 3.42.54a1 1 0 0 1 1 1V20a1 1 0 0 1-1 1C10.54 21 3 13.46 3 4.18a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.18.18 2.34.54 3.42a1 1 0 0 1-.24 1z"/></svg><span>(817) 000-0000</span></a>
+          <a href="mailto:info@lospastores.com"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 4-8 5-8-5V6l8 5 8-5v2Z"/></svg><span>info@lospastores.com</span></a>
         </div>
       </div>
-      <div class="lp-footer-bottom"><span id="copyYear">© 2010 Los Pastores Restaurante. All Rights Reserved.</span><span>Hecho con orgullo en Fort Worth</span></div>
+      <div class="lp-global-footer-divider" aria-hidden="true"></div>
+      <div class="lp-global-footer-lower">
+        <div class="lp-global-footer-socials"><a href="#" aria-label="Facebook"><img src="svg/facebook.svg" alt=""></a><a href="#" aria-label="Instagram"><img src="svg/instagram.svg" alt=""></a><a href="#" aria-label="TikTok"><img src="svg/tiktok.svg" alt=""></a></div>
+        <div class="lp-global-footer-legal"><p>© 2026 Los Pastores Restaurante — All Rights Reserved</p><p>Powered by <a href="https://kukipos.com">KukiPOS</a></p><div class="lp-global-footer-terms"><a href="#">Terms of Use</a><span aria-hidden="true">|</span><a href="#">Privacy Notice</a></div></div>
+      </div>
     </div>
   </footer>
 
