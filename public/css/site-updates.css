@@ -204,6 +204,49 @@
   font-size: 1.05rem;
 }
 
+.lp-menu-page .lp-menu-item-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.lp-menu-page .lp-menu-item-price {
+  color: var(--lp-red);
+  font-size: 1.05rem;
+  white-space: nowrap;
+}
+
+.lp-menu-page .lp-menu-item-add {
+  display: inline-grid;
+  width: 40px;
+  height: 40px;
+  flex: 0 0 40px;
+  place-items: center;
+  color: var(--lp-cream);
+  background: var(--lp-red);
+  border: 1px solid var(--lp-red);
+  border-radius: 50%;
+  font-family: Arial, sans-serif;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration: none;
+  transition: color 160ms ease, background-color 160ms ease, transform 160ms ease;
+}
+
+.lp-menu-page .lp-menu-item-add:hover,
+.lp-menu-page .lp-menu-item-add:focus-visible {
+  color: var(--lp-red);
+  background: transparent;
+  transform: translateY(-2px);
+}
+
+.lp-menu-page .lp-menu-item-add:focus-visible {
+  outline: 2px solid var(--lp-gold);
+  outline-offset: 3px;
+}
+
 .lp-menu-page .lp-menu-option-prices {
   justify-self: start;
   color: var(--lp-text-dark-secondary);
