@@ -17,8 +17,11 @@ Images are optional. Place them in `public/images/menu/` using either the KukiPO
 
 Supported extensions are `.webp`, `.avif`, `.jpg`, `.jpeg`, and `.png`. Code-based filenames take priority. Items without a matching image render as clean text-only cards.
 
+<<<<<<< HEAD
 If there is no matching local file, the generator uses the secure `htmlurl` image supplied by KukiPOS. The catalog records the final `image`, its `imageSource` (`local` or `kukipos`), and the original `apiImage` URL. Local files always take priority, so an API image can be replaced later without changing the menu data.
 
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
 ## Online ordering
 
 Each generated card includes a `+` link to `order/index.html?id=OT-Pastores&code=<item-code>`, which opens the matching product in the existing KukiPOS order app.

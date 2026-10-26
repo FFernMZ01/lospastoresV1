@@ -72,6 +72,7 @@ function priceLabel(item) {
   return `${prices.length > 1 ? "From " : ""}$${minimum.toFixed(2)}`;
 }
 
+<<<<<<< HEAD
 function safeApiImageUrl(value) {
   if (!value) return "";
 
@@ -84,6 +85,9 @@ function safeApiImageUrl(value) {
 }
 
 async function resolveImage(item) {
+=======
+async function firstExistingImage(item) {
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
   const code = String(item.code || "").trim();
   const slug = slugify(cleanItemName(item.description));
   const bases = [code, slug].filter(Boolean);
@@ -93,23 +97,31 @@ async function resolveImage(item) {
       const filename = `${base}.${extension}`;
       try {
         await fs.access(path.join(MENU_IMAGE_DIR, filename));
+<<<<<<< HEAD
         return {
           url: `images/menu/${filename}`,
           source: "local",
           apiUrl: safeApiImageUrl(item.htmlurl),
         };
+=======
+        return `images/menu/${filename}`;
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
       } catch {
         // Try the next supported filename.
       }
     }
   }
 
+<<<<<<< HEAD
   const apiUrl = safeApiImageUrl(item.htmlurl);
   return {
     url: apiUrl,
     source: apiUrl ? "kukipos" : "",
     apiUrl,
   };
+=======
+  return "";
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
 }
 
 function orderUrl(code) {
@@ -123,15 +135,22 @@ async function normalizeMenu(payload) {
   for (const category of payload.data) {
     const items = [];
     for (const item of activeItems(category)) {
+<<<<<<< HEAD
       const image = await resolveImage(item);
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
       items.push({
         code: String(item.code),
         name: cleanItemName(item.description),
         description: stripHtml(item.htmlnotes),
         price: priceLabel(item),
+<<<<<<< HEAD
         image: image.url,
         imageSource: image.source,
         apiImage: image.apiUrl,
+=======
+        image: await firstExistingImage(item),
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
         orderUrl: orderUrl(item.code),
       });
     }
