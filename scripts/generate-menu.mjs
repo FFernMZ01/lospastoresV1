@@ -72,10 +72,6 @@ function priceLabel(item) {
   return `${prices.length > 1 ? "From " : ""}$${minimum.toFixed(2)}`;
 }
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
 function safeApiImageUrl(value) {
   if (!value) return "";
 
@@ -88,12 +84,6 @@ function safeApiImageUrl(value) {
 }
 
 async function resolveImage(item) {
-<<<<<<< HEAD
-=======
-=======
-async function firstExistingImage(item) {
->>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
->>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
   const code = String(item.code || "").trim();
   const slug = slugify(cleanItemName(item.description));
   const bases = [code, slug].filter(Boolean);
@@ -103,43 +93,23 @@ async function firstExistingImage(item) {
       const filename = `${base}.${extension}`;
       try {
         await fs.access(path.join(MENU_IMAGE_DIR, filename));
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         return {
           url: `images/menu/${filename}`,
           source: "local",
           apiUrl: safeApiImageUrl(item.htmlurl),
         };
-<<<<<<< HEAD
-=======
-=======
-        return `images/menu/${filename}`;
->>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
->>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       } catch {
         // Try the next supported filename.
       }
     }
   }
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
   const apiUrl = safeApiImageUrl(item.htmlurl);
   return {
     url: apiUrl,
     source: apiUrl ? "kukipos" : "",
     apiUrl,
   };
-<<<<<<< HEAD
-=======
-=======
-  return "";
->>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
->>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
 }
 
 function orderUrl(code) {
@@ -153,32 +123,15 @@ async function normalizeMenu(payload) {
   for (const category of payload.data) {
     const items = [];
     for (const item of activeItems(category)) {
-<<<<<<< HEAD
       const image = await resolveImage(item);
-=======
-<<<<<<< HEAD
-      const image = await resolveImage(item);
-=======
->>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
->>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       items.push({
         code: String(item.code),
         name: cleanItemName(item.description),
         description: stripHtml(item.htmlnotes),
         price: priceLabel(item),
-<<<<<<< HEAD
         image: image.url,
         imageSource: image.source,
         apiImage: image.apiUrl,
-=======
-<<<<<<< HEAD
-        image: image.url,
-        imageSource: image.source,
-        apiImage: image.apiUrl,
-=======
-        image: await firstExistingImage(item),
->>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
->>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         orderUrl: orderUrl(item.code),
       });
     }
