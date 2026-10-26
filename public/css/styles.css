@@ -3666,3 +3666,20 @@ html {
     flex-direction: column;
   }
 }
+
+.lp-employment-age-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 22px;
+  padding: 9px 16px;
+  color: var(--lp-red);
+  background: rgba(185, 37, 53, 0.08);
+  border: 1px solid rgba(185, 37, 53, 0.28);
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
