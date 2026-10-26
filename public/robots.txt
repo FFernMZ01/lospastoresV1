@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lospastoresresto.web.app/sitemap.xml
