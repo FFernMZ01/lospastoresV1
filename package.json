@@ -1,0 +1,9 @@
+{
+  "name": "los-pastores-website",
+  "private": true,
+  "scripts": {
+    "menu:fetch": "node scripts/fetch-menu.mjs",
+    "menu:generate": "node scripts/generate-menu.mjs",
+    "menu:sync": "node scripts/sync-menu.mjs"
+  }
+}
