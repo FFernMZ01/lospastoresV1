@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "generatedAt": "2026-10-26T06:18:57.486Z",
+=======
+<<<<<<< HEAD
+  "generatedAt": "2026-10-26T02:51:52.486Z",
+=======
+  "generatedAt": "2026-10-19T00:55:01.074Z",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
   "source": "KukiPOS",
   "storeToken": "OT-Pastores",
   "restaurant": "Los Pastores",
@@ -14,9 +22,19 @@
           "name": "Huevos Rancheros",
           "description": "",
           "price": "$12.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/001-013_20261025094518.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/001-013_20261025094518.jpg",
+=======
+<<<<<<< HEAD
+          "image": "https://kukiblob.blob.core.windows.net/pastoresresta/001-013_20261025094518.jpg",
+          "imageSource": "kukipos",
+          "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/001-013_20261025094518.jpg",
+=======
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-013"
         },
         {
@@ -24,9 +42,15 @@
           "name": "Huevo Machacado",
           "description": "",
           "price": "$12.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/001-002_20261025114942.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/001-002_20261025114942.jpg",
+=======
+          "image": "",
+          "imageSource": "",
+          "apiImage": "",
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-002"
         },
         {
@@ -34,9 +58,15 @@
           "name": "Huevos a La Mexicana",
           "description": "",
           "price": "$12.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/001-004_20261025115000.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/001-004_20261025115000.jpg",
+=======
+          "image": "",
+          "imageSource": "",
+          "apiImage": "",
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-004"
         },
         {
@@ -44,9 +74,18 @@
           "name": "Huevos Con Jamon",
           "description": "",
           "price": "$12.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/001-005_20261025115027.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/001-005_20261025115027.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-005"
         },
         {
@@ -55,8 +94,16 @@
           "description": "",
           "price": "$11.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-016"
         },
         {
@@ -64,9 +111,18 @@
           "name": "Huevos Con Chorizo",
           "description": "",
           "price": "$12.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/001-007_20261025115051.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/001-007_20261025115051.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-007"
         },
         {
@@ -75,8 +131,16 @@
           "description": "",
           "price": "$12.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-015"
         },
         {
@@ -85,8 +149,16 @@
           "description": "",
           "price": "$12.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-009"
         },
         {
@@ -94,9 +166,18 @@
           "name": "Tacos de Desayuno",
           "description": "",
           "price": "$3.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/001-010_20261025115131.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/001-010_20261025115131.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-010"
         },
         {
@@ -105,18 +186,54 @@
           "description": "",
           "price": "$6.99",
           "image": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-019"
         },
         {
+<<<<<<< HEAD
+=======
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-019"
+        },
+        {
+          "code": "001-024",
+          "name": "Taco Frijol",
+          "description": "",
+          "price": "$2.69",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-024"
+        },
+        {
+          "code": "001-025",
+          "name": "Taco Frijol Queso",
+          "description": "",
+          "price": "$2.69",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-025"
+        },
+        {
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "001-011",
           "name": "Gordita de Desayuno",
           "description": "",
           "price": "$4.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-011"
         },
         {
@@ -125,18 +242,62 @@
           "description": "",
           "price": "$9.49",
           "image": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-012"
         },
         {
+<<<<<<< HEAD
+=======
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-012"
+        },
+        {
+          "code": "001-014",
+          "name": "Burrito de Carne Desayuno",
+          "description": "",
+          "price": "$10.25",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-014"
+        },
+        {
+          "code": "001-017",
+          "name": "Plato de Huevos",
+          "description": "",
+          "price": "$11.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-017"
+        },
+        {
+          "code": "001-018",
+          "name": "Omellete",
+          "description": "",
+          "price": "$12.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-018"
+        },
+        {
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "001-026",
           "name": "Chilaquiles",
           "description": "",
           "price": "$13.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-026"
         },
         {
@@ -145,8 +306,16 @@
           "description": "",
           "price": "$12.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-008"
         },
         {
@@ -154,10 +323,29 @@
           "name": "Huevos Divorciados",
           "description": "",
           "price": "$12.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/001-020_20261025115200.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/001-020_20261025115200.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-020"
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-020"
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-020"
+        },
+        {
+          "code": "001-027",
+          "name": "Sd de Huevo (2)",
+          "description": "",
+          "price": "$3.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=001-027"
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
@@ -171,19 +359,51 @@
           "name": "Pizza Birria",
           "description": "",
           "price": "$12.95",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/020-001_20261025115319.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/020-001_20261025115319.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=020-001"
         },
         {
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=020-001"
+        },
+        {
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=020-001"
+        },
+        {
+          "code": "020-003",
+          "name": "Rollitos de Birria",
+          "description": "",
+          "price": "$11.95",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=020-003"
+        },
+        {
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "020-004",
           "name": "Quesa Birria (3)",
           "description": "",
           "price": "$9.75",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/020-004_20261025115338.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/020-004_20261025115338.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=020-004"
         },
         {
@@ -191,9 +411,18 @@
           "name": "Quesa Birria (1) Sola",
           "description": "",
           "price": "$3.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/020-002_20261025115355.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/020-002_20261025115355.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=020-002"
         }
       ]
@@ -208,13 +437,26 @@
           "name": "Caldo de Mariscos",
           "description": "",
           "price": "$13.95",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/005-017_20261026122608.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/005-017_20261026122608.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=005-017"
         },
         {
           "code": "005-018",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "name": "Caldo de Camaron",
           "description": "",
           "price": "$12.99",
@@ -224,13 +466,41 @@
           "orderUrl": "order/index.html?id=OT-Pastores&code=005-018"
         },
         {
+<<<<<<< HEAD
+=======
+=======
+          "name": "Caldo Camarones",
+          "description": "",
+          "price": "$12.95",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-018"
+        },
+        {
+          "code": "005-019",
+          "name": "Caldo Pescado",
+          "description": "",
+          "price": "$12.49",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-019"
+        },
+        {
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "005-020",
           "name": "Caldo Cam Y Pescado",
           "description": "",
           "price": "$12.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=005-020"
         },
         {
@@ -238,9 +508,18 @@
           "name": "Camarones",
           "description": "",
           "price": "$18.49",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/005-003_20261026123357.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/005-003_20261026123357.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=005-003"
         },
         {
@@ -248,9 +527,18 @@
           "name": "Filete",
           "description": "",
           "price": "$16.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/005-005_20261026123426.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/005-005_20261026123426.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=005-005"
         },
         {
@@ -258,19 +546,59 @@
           "name": "Pescado",
           "description": "",
           "price": "$20.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/005-006_20261026123456.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/005-006_20261026123456.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=005-006"
         },
         {
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-006"
+        },
+        {
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-006"
+        },
+        {
+          "code": "005-022",
+          "name": "Pescado Solo",
+          "description": "",
+          "price": "$11.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-022"
+        },
+        {
+          "code": "005-007",
+          "name": "Vuelve a La Vida",
+          "description": "",
+          "price": "From $13.49",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-007"
+        },
+        {
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "005-008",
           "name": "Coctel de Camaron",
           "description": "",
           "price": "From $14.21",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/005-008_20261026122633.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/005-008_20261026122633.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=005-008"
         },
         {
@@ -279,9 +607,43 @@
           "description": "",
           "price": "$10.95",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=005-009"
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-009"
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-009"
+        },
+        {
+          "code": "005-011",
+          "name": "Tres Tacos de Pez Empanizado",
+          "description": "",
+          "price": "$14.50",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-011"
+        },
+        {
+          "code": "005-023",
+          "name": "Coctel Cama Y Pulpo",
+          "description": "",
+          "price": "From $14.95",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-023"
+        },
+        {
+          "code": "005-024",
+          "name": "Taco de Pez (1) Solo",
+          "description": "",
+          "price": "$4.59",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=005-024"
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
@@ -296,16 +658,40 @@
           "description": "",
           "price": "$10.99",
           "image": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=006-001"
         },
         {
+<<<<<<< HEAD
+=======
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=006-001"
+        },
+        {
+          "code": "006-002",
+          "name": "Torta Vikinga",
+          "description": "",
+          "price": "$9.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=006-002"
+        },
+        {
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "006-003",
           "name": "Torta Hawaiiana",
           "description": "",
           "price": "$12.99",
           "image": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=006-003"
@@ -318,6 +704,35 @@
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=006-003"
+        },
+        {
+          "code": "006-004",
+          "name": "Torta de Fajita",
+          "description": "",
+          "price": "$10.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=006-004"
+        },
+        {
+          "code": "006-005",
+          "name": "Torta de Lengua",
+          "description": "",
+          "price": "$10.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=006-005"
+        },
+        {
+          "code": "006-006",
+          "name": "Torta de Carne",
+          "description": "",
+          "price": "$9.49",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=006-006"
         },
         {
@@ -326,9 +741,35 @@
           "description": "",
           "price": "$10.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=006-007"
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=006-007"
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=006-007"
+        },
+        {
+          "code": "006-008",
+          "name": "Papas Fritas",
+          "description": "",
+          "price": "$0.75",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=006-008"
+        },
+        {
+          "code": "006-009",
+          "name": "Torta Frijol",
+          "description": "",
+          "price": "$7.95",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=006-009"
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
@@ -342,9 +783,18 @@
           "name": "Hamburguesa Mexicana",
           "description": "",
           "price": "$12.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/007-001_20261026120633.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/007-001_20261026120633.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=007-001"
         },
         {
@@ -353,6 +803,10 @@
           "description": "",
           "price": "$9.99",
           "image": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=007-002"
@@ -366,6 +820,60 @@
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=007-010"
+<<<<<<< HEAD
+=======
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=007-002"
+        },
+        {
+          "code": "007-006",
+          "name": "Hamburguesa Sola",
+          "description": "",
+          "price": "$8.49",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=007-006"
+        },
+        {
+          "code": "007-007",
+          "name": "Hamburguesa Mexicana Sola",
+          "description": "",
+          "price": "$10.49",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=007-007"
+        },
+        {
+          "code": "007-008",
+          "name": "Ensalada",
+          "description": "",
+          "price": "$3.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=007-008"
+        },
+        {
+          "code": "007-009",
+          "name": "Ensalada Faj Res",
+          "description": "",
+          "price": "$7.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=007-009"
+        },
+        {
+          "code": "007-010",
+          "name": "Ensalada Faj Pollo",
+          "description": "",
+          "price": "$7.25",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=007-010"
+        },
+        {
+          "code": "007-011",
+          "name": "Ensalada de Camaron",
+          "description": "",
+          "price": "$14.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=007-011"
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
@@ -378,56 +886,116 @@
           "code": "008-001",
           "name": "Taco Asada",
           "description": "",
+<<<<<<< HEAD
           "price": "See online",
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/008-001_20261026124539.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/008-001_20261026124539.jpg",
+=======
+<<<<<<< HEAD
+          "price": "See online",
+          "image": "",
+          "imageSource": "",
+          "apiImage": "",
+=======
+          "price": "$2.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-001"
         },
         {
           "code": "008-012",
           "name": "Taco Al Pastor",
           "description": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price": "See online",
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "price": "$2.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-012"
         },
         {
           "code": "008-013",
           "name": "Taco Barbacoa",
           "description": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price": "See online",
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "price": "$2.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-013"
         },
         {
           "code": "008-014",
           "name": "Taco Carnitas",
           "description": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price": "See online",
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "price": "$2.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-014"
         },
         {
           "code": "008-015",
           "name": "Taco Deshebrada",
           "description": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price": "See online",
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "price": "$2.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-015"
         },
         {
           "code": "008-016",
           "name": "Taco Pollo Deshebrado",
           "description": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price": "See online",
           "image": "",
           "imageSource": "",
@@ -442,37 +1010,127 @@
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "price": "$2.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=008-016"
+        },
+        {
+          "code": "008-017",
+          "name": "Taco Chicharron Verde",
+          "description": "",
+          "price": "$2.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=008-017"
+        },
+        {
+          "code": "008-018",
+          "name": "Taco Milanesa",
+          "description": "",
+          "price": "$2.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-018"
         },
         {
           "code": "008-009",
           "name": "Taco de Lengua",
           "description": "",
+<<<<<<< HEAD
           "price": "See online",
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/008-009_20261026124559.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/008-009_20261026124559.jpg",
+=======
+<<<<<<< HEAD
+          "price": "See online",
+          "image": "",
+          "imageSource": "",
+          "apiImage": "",
+=======
+          "price": "$2.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-009"
         },
         {
           "code": "008-010",
           "name": "Taco Fajita de Res",
           "description": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price": "See online",
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "price": "$3.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-010"
         },
         {
           "code": "008-019",
           "name": "Taco Fajita de Pollo",
           "description": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price": "See online",
           "image": "",
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-019"
+<<<<<<< HEAD
+=======
+=======
+          "price": "$3.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=008-019"
+        },
+        {
+          "code": "008-011",
+          "name": "Taco Pez",
+          "description": "",
+          "price": "$3.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=008-011"
+        },
+        {
+          "code": "008-020",
+          "name": "Taco Chorizo",
+          "description": "",
+          "price": "$2.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=008-020"
+        },
+        {
+          "code": "008-021",
+          "name": "Taco de Camaron",
+          "description": "",
+          "price": "$4.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=008-021"
+        },
+        {
+          "code": "008-022",
+          "name": "Taco Carne/nopal",
+          "description": "",
+          "price": "$2.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=008-022"
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
@@ -487,18 +1145,46 @@
           "description": "",
           "price": "$10.99",
           "image": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=002-001"
         },
         {
+<<<<<<< HEAD
+=======
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-001"
+        },
+        {
+          "code": "002-002",
+          "name": "Burrito de Lengua",
+          "description": "",
+          "price": "$10.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-002"
+        },
+        {
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "002-003",
           "name": "Burrito de Carne",
           "description": "",
           "price": "$9.49",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=002-003"
         },
         {
@@ -507,9 +1193,59 @@
           "description": "",
           "price": "$9.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=002-005"
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-005"
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-005"
+        },
+        {
+          "code": "002-006",
+          "name": "Burrito Chile Relleno",
+          "description": "",
+          "price": "$10.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-006"
+        },
+        {
+          "code": "002-004",
+          "name": "Gordita Carne",
+          "description": "",
+          "price": "$4.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-004"
+        },
+        {
+          "code": "002-007",
+          "name": "Gordita",
+          "description": "",
+          "price": "$4.25",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-007"
+        },
+        {
+          "code": "002-008",
+          "name": "de Gordita",
+          "description": "",
+          "price": "$13.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-008"
+        },
+        {
+          "code": "002-009",
+          "name": "Burrito Frijol Queso",
+          "description": "",
+          "price": "$3.89",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-009"
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
@@ -523,9 +1259,18 @@
           "name": "Enchiladas",
           "description": "",
           "price": "$13.95",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/003-001_20261026010218.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/003-001_20261026010218.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-001"
         },
         {
@@ -533,9 +1278,18 @@
           "name": "La Indecisa",
           "description": "",
           "price": "$17.95",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/003-002_20261026010237.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/003-002_20261026010237.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-002"
         },
         {
@@ -544,18 +1298,38 @@
           "description": "",
           "price": "$18.95",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-003"
         },
         {
           "code": "003-005",
           "name": "Chile Relleno",
           "description": "",
+<<<<<<< HEAD
           "price": "$17.99",
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/003-005_20261026010256.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/003-005_20261026010256.jpg",
+=======
+<<<<<<< HEAD
+          "price": "$17.99",
+          "image": "",
+          "imageSource": "",
+          "apiImage": "",
+=======
+          "price": "$15.95",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-005"
         },
         {
@@ -564,8 +1338,16 @@
           "description": "",
           "price": "$23.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-006"
         },
         {
@@ -573,9 +1355,18 @@
           "name": "Bistek Ranchero",
           "description": "",
           "price": "$15.59",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/003-007_20261026010423.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/003-007_20261026010423.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-007"
         },
         {
@@ -584,6 +1375,10 @@
           "description": "",
           "price": "$15.99",
           "image": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-008"
@@ -596,6 +1391,43 @@
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=003-008"
+        },
+        {
+          "code": "003-017",
+          "name": "Guisado de Res",
+          "description": "",
+          "price": "$15.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=003-017"
+        },
+        {
+          "code": "003-016",
+          "name": "Guisado de Lengua",
+          "description": "",
+          "price": "$16.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=003-016"
+        },
+        {
+          "code": "003-010",
+          "name": "Milanesa de Res",
+          "description": "",
+          "price": "$14.49",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=003-010"
+        },
+        {
+          "code": "003-011",
+          "name": "Fajitas",
+          "description": "",
+          "price": "$22.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-011"
         },
         {
@@ -603,30 +1435,72 @@
           "name": "Fajitas Combinadas Con Camaron",
           "description": "",
           "price": "$24.99",
+<<<<<<< HEAD
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/003-013_20261026010502.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/003-013_20261026010502.jpg",
+=======
+          "image": "",
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-013"
         },
         {
           "code": "003-009",
           "name": "Alambres",
           "description": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price": "$25.49",
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "price": "$26.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-009"
         },
         {
           "code": "003-014",
           "name": "Platillo de Carne",
           "description": "",
+<<<<<<< HEAD
           "price": "$16.95",
           "image": "https://kukiblob.blob.core.windows.net/pastoresresta/003-014_20261026010729.jpg",
           "imageSource": "kukipos",
           "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/003-014_20261026010729.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=003-014"
+=======
+<<<<<<< HEAD
+          "price": "$16.95",
+          "image": "",
+          "imageSource": "",
+          "apiImage": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=003-014"
+=======
+          "price": "$16.45",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=003-014"
+        },
+        {
+          "code": "003-015",
+          "name": "Flautas",
+          "description": "",
+          "price": "$15.49",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=003-015"
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
@@ -637,28 +1511,58 @@
       "items": [
         {
           "code": "004-008",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "name": "Quesadilla de Queso",
           "description": "",
           "price": "$4.99",
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "name": "Quesadilla",
+          "description": "",
+          "price": "$4.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=004-008"
         },
         {
           "code": "004-005",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "name": "Quesadilla de Fajita",
           "description": "",
           "price": "$9.99",
           "image": "",
           "imageSource": "",
           "apiImage": "",
+<<<<<<< HEAD
+=======
+=======
+          "name": "Quesadilla de Carne",
+          "description": "",
+          "price": "From $6.99",
+          "image": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=004-005"
         },
         {
           "code": "004-009",
           "name": "Quesadilla Camaron",
           "description": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price": "$12.99",
           "image": "",
           "imageSource": "",
@@ -694,6 +1598,22 @@
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=004-012"
+<<<<<<< HEAD
+=======
+=======
+          "price": "$9.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=004-009"
+        },
+        {
+          "code": "004-007",
+          "name": "Super Quesadilla",
+          "description": "",
+          "price": "$9.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=004-007"
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
@@ -703,13 +1623,35 @@
       "key": "10-kids-meals",
       "items": [
         {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "code": "009-001",
+          "name": "Enchilada Nino",
+          "description": "",
+          "price": "$6.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=009-001"
+        },
+        {
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "009-002",
           "name": "Desayuno de Niño",
           "description": "",
           "price": "$6.99",
           "image": "",
+<<<<<<< HEAD
           "imageSource": "",
           "apiImage": "",
+=======
+<<<<<<< HEAD
+          "imageSource": "",
+          "apiImage": "",
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "orderUrl": "order/index.html?id=OT-Pastores&code=009-002"
         },
         {
@@ -718,6 +1660,10 @@
           "description": "",
           "price": "$8.99",
           "image": "",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=009-004"
@@ -835,9 +1781,55 @@
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=019-004"
+<<<<<<< HEAD
+=======
+=======
+          "orderUrl": "order/index.html?id=OT-Pastores&code=009-004"
+        },
+        {
+          "code": "009-003",
+          "name": "Quesadilla Nino",
+          "description": "",
+          "price": "$6.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=009-003"
+        },
+        {
+          "code": "009-005",
+          "name": "Quesadilla Nino Con Carne",
+          "description": "",
+          "price": "$8.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=009-005"
+        },
+        {
+          "code": "009-006",
+          "name": "Plato Carne de Nino",
+          "description": "",
+          "price": "$8.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=009-006"
+        },
+        {
+          "code": "009-007",
+          "name": "Pancake Desayuno",
+          "description": "",
+          "price": "$7.99",
+          "image": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=009-007"
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     }
   ],
+<<<<<<< HEAD
   "itemCount": 75
+=======
+<<<<<<< HEAD
+  "itemCount": 75
+=======
+  "itemCount": 106
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
 }

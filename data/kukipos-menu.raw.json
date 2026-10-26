@@ -8,7 +8,15 @@
     {
       "id": 1,
       "title": "Breakfast",
+<<<<<<< HEAD
       "count": 15,
+=======
+<<<<<<< HEAD
+      "count": 15,
+=======
+      "count": 21,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "data": [
         {
           "group": 1,
@@ -19,7 +27,15 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/001-013_20261025094518.jpg",
+=======
+<<<<<<< HEAD
+          "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/001-013_20261025094518.jpg",
+=======
+          "htmlurl": "",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "w": 267,
           "h": 150,
           "off": 0,
@@ -174,9 +190,20 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/001-002_20261025114942.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+<<<<<<< HEAD
+          "w": 0,
+          "h": 0,
+=======
+          "w": 267,
+          "h": 150,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 12.99,
           "price1txt": "",
@@ -313,9 +340,20 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/001-004_20261025115000.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+<<<<<<< HEAD
+          "w": 0,
+          "h": 0,
+=======
+          "w": 267,
+          "h": 150,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 12.99,
           "price1txt": "",
@@ -452,9 +490,20 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/001-005_20261025115027.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+<<<<<<< HEAD
+          "w": 0,
+          "h": 0,
+=======
+          "w": 267,
+          "h": 150,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 12.99,
           "price1txt": "",
@@ -730,9 +779,20 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/001-007_20261025115051.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+<<<<<<< HEAD
+          "w": 0,
+          "h": 0,
+=======
+          "w": 267,
+          "h": 150,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 12.99,
           "price1txt": "",
@@ -1147,9 +1207,20 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/001-010_20261025115131.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+<<<<<<< HEAD
+          "w": 0,
+          "h": 0,
+=======
+          "w": 267,
+          "h": 150,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 3.99,
           "price1txt": "",
@@ -1434,6 +1505,76 @@
         },
         {
           "group": 1,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "code": "001-024",
+          "description": "Taco Frijol",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 2.69,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 1,
+          "code": "001-025",
+          "description": "Taco Frijol Queso",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 2.69,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 1,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "001-011",
           "description": "Gordita de Desayuno",
           "taxlevel": 1,
@@ -1712,6 +1853,354 @@
         },
         {
           "group": 1,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "code": "001-014",
+          "description": "Burrito de Carne Desayuno",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 10.25,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0067",
+              "itemname": "Asada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0069",
+              "itemname": "Barbacoa",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0076",
+              "itemname": "Fajita de Res",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0077",
+              "itemname": "Fajita de Pollo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0074",
+              "itemname": "Chicharron Verde",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Jamon",
+              "extra": 0.99
+            },
+            {
+              "id": 2,
+              "comment": "Papa",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Tocino",
+              "extra": 0.99
+            },
+            {
+              "id": 4,
+              "comment": "Chorizo",
+              "extra": 0.99
+            },
+            {
+              "id": 5,
+              "comment": "Aguacate",
+              "extra": 0.99
+            },
+            {
+              "id": 6,
+              "comment": "Salchicha",
+              "extra": 0.99
+            },
+            {
+              "id": 7,
+              "comment": "Extra Queso",
+              "extra": 0.5
+            },
+            {
+              "id": 8,
+              "comment": "Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "Crema",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "Mayo",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 1,
+          "code": "001-017",
+          "description": "Plato de Huevos",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 11.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0092",
+              "itemname": "Tortilla Mix",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0093",
+              "itemname": "No Tortilla",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 1,
+          "choice2": [
+            {
+              "itemcode": "0089",
+              "itemname": "Revuelto",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0108",
+              "itemname": "Estrellada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0091",
+              "itemname": "Bien Cocidos",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0090",
+              "itemname": "Estrellados Sin Voltear",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "1 Huevo",
+              "extra": 1.99
+            },
+            {
+              "id": 2,
+              "comment": "2 Huevo",
+              "extra": 3.49
+            },
+            {
+              "id": 3,
+              "comment": "Crema",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Tortilla",
+              "extra": 0.5
+            },
+            {
+              "id": 5,
+              "comment": "Pan",
+              "extra": 0.25
+            },
+            {
+              "id": 6,
+              "comment": "Jamon",
+              "extra": 0.99
+            },
+            {
+              "id": 7,
+              "comment": "Salchicha",
+              "extra": 0.99
+            },
+            {
+              "id": 8,
+              "comment": "Tocino",
+              "extra": 0.99
+            },
+            {
+              "id": 9,
+              "comment": "Chorizo",
+              "extra": 0.99
+            },
+            {
+              "id": 10,
+              "comment": "Queso Fresco",
+              "extra": 0.75
+            },
+            {
+              "id": 11,
+              "comment": "No Pico",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Jalapeno",
+              "extra": 0
+            },
+            {
+              "id": 13,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 14,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 15,
+              "comment": "No Papa",
+              "extra": 0
+            },
+            {
+              "id": 16,
+              "comment": "No Frijoles",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 1,
+          "code": "001-018",
+          "description": "Omellete",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 12.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Tomate",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "Jalapeno",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "Queso",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "Tocino",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "Jamon",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "Salchicha",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "Papa",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 1,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "001-026",
           "description": "Pt Chilaquiles",
           "taxlevel": 1,
@@ -1946,9 +2435,20 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/001-020_20261025115200.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+<<<<<<< HEAD
+          "w": 0,
+          "h": 0,
+=======
+          "w": 267,
+          "h": 150,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 12.99,
           "price1txt": "",
@@ -2096,13 +2596,105 @@
           "title2": "Second Option",
           "title3": "Third Option",
           "grouped": true
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        },
+        {
+          "group": 1,
+          "code": "001-027",
+          "description": "Sd de Huevo (2)",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 3.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0202",
+              "itemname": "Estrellado",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0089",
+              "itemname": "Revuelto",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0027",
+              "itemname": "Jamon",
+              "itemextra": 1.99
+            },
+            {
+              "itemcode": "0029",
+              "itemname": "Tocino",
+              "itemextra": 1.99
+            },
+            {
+              "itemcode": "0028",
+              "itemname": "Salchicha",
+              "itemextra": 1.99
+            },
+            {
+              "itemcode": "0030",
+              "itemname": "Chorizo",
+              "itemextra": 1.99
+            },
+            {
+              "itemcode": "0032",
+              "itemname": "Huevo Machacado",
+              "itemextra": 1.99
+            },
+            {
+              "itemcode": "0203",
+              "itemname": "A La Mexicana",
+              "itemextra": 0.5
+            },
+            {
+              "itemcode": "0179",
+              "itemname": "Papas Desayuno",
+              "itemextra": 0.5
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
     {
       "id": 2,
       "title": "Birria",
+<<<<<<< HEAD
       "count": 3,
+=======
+<<<<<<< HEAD
+      "count": 3,
+=======
+      "count": 4,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "data": [
         {
           "group": 20,
@@ -2113,9 +2705,15 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/020-001_20261025115319.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 12.95,
           "price1txt": "",
@@ -2159,6 +2757,65 @@
         },
         {
           "group": 20,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "code": "020-003",
+          "description": "Rollitos de Birria",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 11.95,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Verdura Aparte",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Jalapeno",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 20,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "020-004",
           "description": "Pt Quesa Birria (3)",
           "taxlevel": 1,
@@ -2166,9 +2823,15 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/020-004_20261025115338.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 9.75,
           "price1txt": "",
@@ -2219,9 +2882,15 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/020-002_20261025115355.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 3.99,
           "price1txt": "",
@@ -2268,7 +2937,15 @@
     {
       "id": 3,
       "title": "Seafood",
+<<<<<<< HEAD
       "count": 8,
+=======
+<<<<<<< HEAD
+      "count": 8,
+=======
+      "count": 14,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "data": [
         {
           "group": 5,
@@ -2279,9 +2956,15 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/005-017_20261026122608.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 13.95,
           "price1txt": "",
@@ -2398,7 +3081,15 @@
         {
           "group": 5,
           "code": "005-018",
+<<<<<<< HEAD
           "description": "Caldo de Camaron",
+=======
+<<<<<<< HEAD
+          "description": "Caldo de Camaron",
+=======
+          "description": "Caldo Camarones",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "taxlevel": 1,
           "taxname": "Food/Bev.",
           "taxrate": 0.0825,
@@ -2408,7 +3099,140 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 12.99,
+=======
+<<<<<<< HEAD
+          "price1": 12.99,
+=======
+          "price1": 12.95,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0193",
+              "itemname": "Chico",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0175",
+              "itemname": "Grande",
+              "itemextra": 4
+            }
+          ],
+          "maxchoice2": 1,
+          "choice2": [
+            {
+              "itemcode": "0080",
+              "itemname": "Pan",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0092",
+              "itemname": "Tortilla Mix",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0082",
+              "itemname": "Galletas",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0083",
+              "itemname": "Chips",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0180",
+              "itemname": "No Pan/t",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Ostion",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Pulpo",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Camaron",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Pescado",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Aguacate",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 5,
+          "code": "005-019",
+          "description": "Caldo Pescado",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 12.49,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -2654,9 +3478,15 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/005-003_20261026123357.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 18.49,
           "price1txt": "",
@@ -2774,9 +3604,15 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/005-005_20261026123426.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 16.99,
           "price1txt": "",
@@ -2894,9 +3730,15 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/005-006_20261026123456.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 20.99,
           "price1txt": "",
@@ -3027,6 +3869,128 @@
         },
         {
           "group": 5,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "code": "005-022",
+          "description": "Pescado Solo",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 11.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0192",
+              "itemname": "Empanizado",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0126",
+              "itemname": "Frito",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 5,
+          "code": "005-007",
+          "description": "Vuelve a La Vida",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 13.49,
+          "price1txt": "Sm",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 17.99,
+          "price3txt": "Lg",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Ostion",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Pulpo",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Camaron",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Pescado",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Aguacate",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 5,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "005-008",
           "description": "Coctel de Camaron",
           "taxlevel": 1,
@@ -3034,9 +3998,15 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/005-008_20261026122633.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 14.21,
           "price1txt": "Sm",
@@ -3122,7 +4092,15 @@
             {
               "itemcode": "0127",
               "itemname": "Ceviche",
+<<<<<<< HEAD
               "itemextra": 0.04
+=======
+<<<<<<< HEAD
+              "itemextra": 0.04
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0123",
@@ -3186,13 +4164,211 @@
           "title2": "Second Option",
           "title3": "Third Option",
           "grouped": true
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        },
+        {
+          "group": 5,
+          "code": "005-011",
+          "description": "Tres Tacos de Pez Empanizado",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 14.5,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Lechuga",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Queso",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 5,
+          "code": "005-023",
+          "description": "Coctel Cama Y Pulpo",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 14.95,
+          "price1txt": "Sm",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 18.95,
+          "price3txt": "Lg",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Chile Toreado",
+              "extra": 0.5
+            },
+            {
+              "id": 2,
+              "comment": "Aguacate",
+              "extra": 2.5
+            },
+            {
+              "id": 3,
+              "comment": "Jalapeño Curtido",
+              "extra": 1.25
+            },
+            {
+              "id": 4,
+              "comment": "Limon",
+              "extra": 0.5
+            },
+            {
+              "id": 5,
+              "comment": "Extra Pescado",
+              "extra": 3
+            },
+            {
+              "id": 6,
+              "comment": "Extra Camarones",
+              "extra": 3
+            },
+            {
+              "id": 7,
+              "comment": "Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "Extra Pan",
+              "extra": 1.5
+            },
+            {
+              "id": 9,
+              "comment": "Extra Tortilla de Harina",
+              "extra": 1.5
+            },
+            {
+              "id": 10,
+              "comment": "Extra Tortilla de Maiz",
+              "extra": 1.5
+            },
+            {
+              "id": 11,
+              "comment": "Extra Galletas",
+              "extra": 1.5
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 5,
+          "code": "005-024",
+          "description": "Taco de Pez (1) Solo",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 4.59,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Lechuga",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Queso",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
     {
       "id": 4,
       "title": "Tortas",
+<<<<<<< HEAD
       "count": 4,
+=======
+<<<<<<< HEAD
+      "count": 4,
+=======
+      "count": 9,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "data": [
         {
           "group": 6,
@@ -3274,6 +4450,90 @@
         },
         {
           "group": 6,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "code": "006-002",
+          "description": "Torta Vikinga",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 9.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Carne",
+              "extra": 2.25
+            },
+            {
+              "id": 2,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Lechuga",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "No Mayonesa",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Aguacate",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "No Queso",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Pina",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Jalapeno",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 6,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "006-003",
           "description": "Torta Hawaiiana",
           "taxlevel": 1,
@@ -3352,6 +4612,184 @@
         },
         {
           "group": 6,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "code": "006-004",
+          "description": "Torta de Fajita",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 10.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0102",
+              "itemname": "Fajita Res",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0077",
+              "itemname": "Fajita de Pollo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0133",
+              "itemname": "Res Y Pollo",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Carne",
+              "extra": 2.25
+            },
+            {
+              "id": 2,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Lechuga",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "No Mayonesa",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Aguacate",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "No Queso",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Pina",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Jalapeno",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 6,
+          "code": "006-005",
+          "description": "Torta de Lengua",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 10.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Carne",
+              "extra": 2.25
+            },
+            {
+              "id": 2,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Lechuga",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "No Mayonesa",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Aguacate",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "No Queso",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Pina",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Jalapeno",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 6,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "006-006",
           "description": "Torta de Carne",
           "taxlevel": 1,
@@ -3363,7 +4801,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 9.5,
+=======
+<<<<<<< HEAD
+          "price1": 9.5,
+=======
+          "price1": 9.49,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -3632,13 +5078,127 @@
           "title2": "Second Option",
           "title3": "Third Option",
           "grouped": true
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        },
+        {
+          "group": 6,
+          "code": "006-008",
+          "description": "Papas Fritas",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 0.75,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [],
+          "topseller": true,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 6,
+          "code": "006-009",
+          "description": "Torta Frijol",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 7.95,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0095",
+              "itemname": "Frijoles Con Queso",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0066",
+              "itemname": "No Queso",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0034",
+              "itemname": "Aguacate",
+              "itemextra": 0.75
+            },
+            {
+              "itemcode": "0035",
+              "itemname": "Tomate",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0037",
+              "itemname": "Cebolla",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0200",
+              "itemname": "Lechuga",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0201",
+              "itemname": "Mayo",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
     {
       "id": 5,
       "title": "Hamburgers & Salad",
+<<<<<<< HEAD
       "count": 3,
+=======
+<<<<<<< HEAD
+      "count": 3,
+=======
+      "count": 8,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "data": [
         {
           "group": 7,
@@ -3649,9 +5209,15 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/007-001_20261026120633.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 12.99,
           "price1txt": "",
@@ -3818,8 +5384,194 @@
         },
         {
           "group": 7,
+<<<<<<< HEAD
           "code": "007-010",
           "description": "Ensalada Faj Pollo",
+=======
+<<<<<<< HEAD
+          "code": "007-010",
+          "description": "Ensalada Faj Pollo",
+=======
+          "code": "007-006",
+          "description": "Hamburguesa Sola",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 8.49,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Doble",
+              "extra": 2
+            },
+            {
+              "id": 2,
+              "comment": "Tocino",
+              "extra": 2.49
+            },
+            {
+              "id": 3,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Lechuga",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Jamon",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "No Aguacate",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Mayonesa",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Mostaza",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "No Jalapenos",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Queso",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 7,
+          "code": "007-007",
+          "description": "Hamburguesa Mexicana Sola",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 10.49,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Doble",
+              "extra": 2
+            },
+            {
+              "id": 2,
+              "comment": "Tocino",
+              "extra": 2.49
+            },
+            {
+              "id": 3,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Lechuga",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Jamon",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "No Aguacate",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Mayonesa",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Mostaza",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "No Jalapenos",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Queso",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 7,
+          "code": "007-008",
+          "description": "Ensalada",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "taxlevel": 1,
           "taxname": "Food/Bev.",
           "taxrate": 0.0825,
@@ -3829,7 +5581,74 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 11.25,
+=======
+<<<<<<< HEAD
+          "price1": 11.25,
+=======
+          "price1": 3.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0100",
+              "itemname": "Ensalada Chica",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0101",
+              "itemname": "Ensalada Grande",
+              "itemextra": 2.99
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Carne Dorada",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Aguacate",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 7,
+          "code": "007-009",
+          "description": "Ensalada Faj Res",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 7.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -3874,13 +5693,134 @@
           "title2": "Second Option",
           "title3": "Third Option",
           "grouped": true
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        },
+        {
+          "group": 7,
+          "code": "007-010",
+          "description": "Ensalada Faj Pollo",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 7.25,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0100",
+              "itemname": "Ensalada Chica",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0101",
+              "itemname": "Ensalada Grande",
+              "itemextra": 4
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Carne Dorada",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Aguacate",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 7,
+          "code": "007-011",
+          "description": "Ensalada de Camaron",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 14.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Carne Dorada",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Aguacate",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
     {
       "id": 6,
       "title": "Tacos",
+<<<<<<< HEAD
       "count": 10,
+=======
+<<<<<<< HEAD
+      "count": 10,
+=======
+      "count": 15,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "data": [
         {
           "group": 8,
@@ -3891,11 +5831,23 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/008-001_20261026124539.jpg",
           "w": 267,
           "h": 150,
           "off": 0,
           "price1": 0,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 2.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -3906,12 +5858,38 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 2.99
+=======
+<<<<<<< HEAD
+              "itemextra": 2.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -4019,7 +5997,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 0,
+=======
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 2.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -4030,12 +6016,38 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 2.99
+=======
+<<<<<<< HEAD
+              "itemextra": 2.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -4143,7 +6155,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 0,
+=======
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 2.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -4154,12 +6174,38 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 2.99
+=======
+<<<<<<< HEAD
+              "itemextra": 2.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -4267,7 +6313,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 0,
+=======
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 2.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -4278,12 +6332,38 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 2.99
+=======
+<<<<<<< HEAD
+              "itemextra": 2.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -4391,7 +6471,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 0,
+=======
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 2.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -4402,12 +6490,38 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 2.99
+=======
+<<<<<<< HEAD
+              "itemextra": 2.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -4515,7 +6629,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 0,
+=======
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 2.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -4526,12 +6648,172 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 2.99
+=======
+<<<<<<< HEAD
+              "itemextra": 2.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Extra Carne",
+              "extra": 1
+            },
+            {
+              "id": 2,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Cebolla",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Queso",
+              "extra": 0.75
+            },
+            {
+              "id": 5,
+              "comment": "Chile Toreado",
+              "extra": 0.5
+            },
+            {
+              "id": 6,
+              "comment": "Jalapeños Curtidos",
+              "extra": 0.75
+            },
+            {
+              "id": 7,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Repollo",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Verdura",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "Verdura Aparte",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 13,
+              "comment": "No Jalapeno",
+              "extra": 0
+            },
+            {
+              "id": 14,
+              "comment": "Con Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 15,
+              "comment": "Aguacate",
+              "extra": 0.25
+            },
+            {
+              "id": 16,
+              "comment": "Guacamole",
+              "extra": 0.5
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 8,
+          "code": "008-017",
+          "description": "Taco Chicharron Verde",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 2.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -4639,7 +6921,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 0,
+=======
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 2.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -4650,12 +6940,38 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 2.99
+=======
+<<<<<<< HEAD
+              "itemextra": 2.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -4759,11 +7075,23 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/008-009_20261026124559.jpg",
           "w": 267,
           "h": 150,
           "off": 0,
           "price1": 0,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 2.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -4774,12 +7102,38 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 2.99
+=======
+<<<<<<< HEAD
+              "itemextra": 2.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -4887,7 +7241,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 0,
+=======
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 3.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -4898,12 +7260,38 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 4.99
+=======
+<<<<<<< HEAD
+              "itemextra": 4.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -5011,7 +7399,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 0,
+=======
+<<<<<<< HEAD
+          "price1": 0,
+=======
+          "price1": 3.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -5022,12 +7418,574 @@
             {
               "itemcode": "0081",
               "itemname": "T Maiz",
+<<<<<<< HEAD
               "itemextra": 3.99
+=======
+<<<<<<< HEAD
+              "itemextra": 3.99
+=======
+              "itemextra": 0
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             },
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+<<<<<<< HEAD
               "itemextra": 4.99
+=======
+<<<<<<< HEAD
+              "itemextra": 4.99
+=======
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Extra Carne",
+              "extra": 1
+            },
+            {
+              "id": 2,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Cebolla",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Queso",
+              "extra": 0.75
+            },
+            {
+              "id": 5,
+              "comment": "Chile Toreado",
+              "extra": 0.5
+            },
+            {
+              "id": 6,
+              "comment": "Jalapeños Curtidos",
+              "extra": 0.75
+            },
+            {
+              "id": 7,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Repollo",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Verdura",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "Verdura Aparte",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 13,
+              "comment": "No Jalapeno",
+              "extra": 0
+            },
+            {
+              "id": 14,
+              "comment": "Con Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 15,
+              "comment": "Aguacate",
+              "extra": 0.25
+            },
+            {
+              "id": 16,
+              "comment": "Guacamole",
+              "extra": 0.5
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 8,
+          "code": "008-011",
+          "description": "Taco Pez",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 3.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Extra Carne",
+              "extra": 1
+            },
+            {
+              "id": 2,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Cebolla",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Queso",
+              "extra": 0.75
+            },
+            {
+              "id": 5,
+              "comment": "Chile Toreado",
+              "extra": 0.5
+            },
+            {
+              "id": 6,
+              "comment": "Jalapeños Curtidos",
+              "extra": 0.75
+            },
+            {
+              "id": 7,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Repollo",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Verdura",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "Verdura Aparte",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 13,
+              "comment": "No Jalapeno",
+              "extra": 0
+            },
+            {
+              "id": 14,
+              "comment": "Con Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 15,
+              "comment": "Aguacate",
+              "extra": 0.25
+            },
+            {
+              "id": 16,
+              "comment": "Guacamole",
+              "extra": 0.5
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 8,
+          "code": "008-020",
+          "description": "Taco Chorizo",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 2.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Extra Carne",
+              "extra": 1
+            },
+            {
+              "id": 2,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Cebolla",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Queso",
+              "extra": 0.75
+            },
+            {
+              "id": 5,
+              "comment": "Chile Toreado",
+              "extra": 0.5
+            },
+            {
+              "id": 6,
+              "comment": "Jalapeños Curtidos",
+              "extra": 0.75
+            },
+            {
+              "id": 7,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Repollo",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Verdura",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "Verdura Aparte",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 13,
+              "comment": "No Jalapeno",
+              "extra": 0
+            },
+            {
+              "id": 14,
+              "comment": "Con Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 15,
+              "comment": "Aguacate",
+              "extra": 0.25
+            },
+            {
+              "id": 16,
+              "comment": "Guacamole",
+              "extra": 0.5
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 8,
+          "code": "008-021",
+          "description": "Taco de Camaron",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 4.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Extra Carne",
+              "extra": 1
+            },
+            {
+              "id": 2,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Cebolla",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Queso",
+              "extra": 0.75
+            },
+            {
+              "id": 5,
+              "comment": "Chile Toreado",
+              "extra": 0.5
+            },
+            {
+              "id": 6,
+              "comment": "Jalapeños Curtidos",
+              "extra": 0.75
+            },
+            {
+              "id": 7,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Repollo",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Verdura",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "Verdura Aparte",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 13,
+              "comment": "No Jalapeno",
+              "extra": 0
+            },
+            {
+              "id": 14,
+              "comment": "Con Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 15,
+              "comment": "Aguacate",
+              "extra": 0.25
+            },
+            {
+              "id": 16,
+              "comment": "Guacamole",
+              "extra": 0.5
+            }
+          ],
+          "topseller": true,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 8,
+          "code": "008-022",
+          "description": "Taco Carne/nopal",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 2.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0062",
+              "itemname": "Tmg",
+              "itemextra": 1
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -5127,7 +8085,15 @@
     {
       "id": 7,
       "title": "Burritos",
+<<<<<<< HEAD
       "count": 3,
+=======
+<<<<<<< HEAD
+      "count": 3,
+=======
+      "count": 9,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "data": [
         {
           "group": 2,
@@ -5240,6 +8206,105 @@
         },
         {
           "group": 2,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "code": "002-002",
+          "description": "Burrito de Lengua",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 10.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Fajitas de Res",
+              "extra": 2.99
+            },
+            {
+              "id": 2,
+              "comment": "Fajitas de Pollo",
+              "extra": 2.99
+            },
+            {
+              "id": 3,
+              "comment": "Cebolla",
+              "extra": 0.25
+            },
+            {
+              "id": 4,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 5,
+              "comment": "No Frijol",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Arroz",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "No Crema",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Queso",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "No Bell Pepper",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Lechuga",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Tomate",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 2,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "002-003",
           "description": "Burrito de Carne",
           "taxlevel": 1,
@@ -5555,13 +8620,559 @@
           "title2": "Second Option",
           "title3": "Third Option",
           "grouped": true
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        },
+        {
+          "group": 2,
+          "code": "002-006",
+          "description": "Burrito Chile Relleno",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 10.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Fajitas de Res",
+              "extra": 2.99
+            },
+            {
+              "id": 2,
+              "comment": "Fajitas de Pollo",
+              "extra": 2.99
+            },
+            {
+              "id": 3,
+              "comment": "Cebolla",
+              "extra": 0.25
+            },
+            {
+              "id": 4,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 5,
+              "comment": "No Frijol",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Arroz",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "No Crema",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Queso",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "No Bell Pepper",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Lechuga",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Tomate",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 2,
+          "code": "002-004",
+          "description": "Gordita Carne",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 4.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0067",
+              "itemname": "Asada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0068",
+              "itemname": "Pastor",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0069",
+              "itemname": "Barbacoa",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0070",
+              "itemname": "Carnitas",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0071",
+              "itemname": "Pollo Deshebrado",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0072",
+              "itemname": "Adobada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0073",
+              "itemname": "Deshebrada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0074",
+              "itemname": "Chicharron Verde",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0075",
+              "itemname": "Res",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0076",
+              "itemname": "Fajita de Res",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0077",
+              "itemname": "Fajita de Pollo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0094",
+              "itemname": "Carne/ Nopales",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0027",
+              "itemname": "Jamon",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0030",
+              "itemname": "Chorizo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0099",
+              "itemname": "Lengua",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "Queso",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Crema",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "Papa",
+              "extra": 0.5
+            },
+            {
+              "id": 7,
+              "comment": "Tocino",
+              "extra": 0.5
+            },
+            {
+              "id": 8,
+              "comment": "Jamon",
+              "extra": 0.5
+            },
+            {
+              "id": 9,
+              "comment": "No Queso",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 2,
+          "code": "002-007",
+          "description": "Gordita",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 4.25,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0043",
+              "itemname": "Frijoles",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0132",
+              "itemname": "Queso",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0095",
+              "itemname": "Frijoles Con Queso",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "Queso",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Crema",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "Papa",
+              "extra": 0.5
+            },
+            {
+              "id": 7,
+              "comment": "Tocino",
+              "extra": 0.5
+            },
+            {
+              "id": 8,
+              "comment": "Jamon",
+              "extra": 0.5
+            },
+            {
+              "id": 9,
+              "comment": "No Queso",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 2,
+          "code": "002-008",
+          "description": "Pt de Gordita",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 13.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 2,
+          "choice1": [
+            {
+              "itemcode": "0067",
+              "itemname": "Asada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0068",
+              "itemname": "Pastor",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0069",
+              "itemname": "Barbacoa",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0070",
+              "itemname": "Carnitas",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0071",
+              "itemname": "Pollo Deshebrado",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0072",
+              "itemname": "Adobada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0073",
+              "itemname": "Deshebrada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0074",
+              "itemname": "Chicharron Verde",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0075",
+              "itemname": "Res",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0076",
+              "itemname": "Fajita de Res",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0077",
+              "itemname": "Fajita de Pollo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0094",
+              "itemname": "Carne/ Nopales",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0027",
+              "itemname": "Jamon",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0096",
+              "itemname": "Con Frijoles",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0132",
+              "itemname": "Queso",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0095",
+              "itemname": "Frijoles Con Queso",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "Queso",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Crema",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "Papa",
+              "extra": 0.5
+            },
+            {
+              "id": 7,
+              "comment": "Tocino",
+              "extra": 0.5
+            },
+            {
+              "id": 8,
+              "comment": "Jamon",
+              "extra": 0.5
+            },
+            {
+              "id": 9,
+              "comment": "No Queso",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 2,
+          "code": "002-009",
+          "description": "Burrito Frijol Queso",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 3.89,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 0,
+          "choice1": [],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
     {
       "id": 8,
       "title": "Platillos Combinadas",
+<<<<<<< HEAD
       "count": 11,
+=======
+<<<<<<< HEAD
+      "count": 11,
+=======
+      "count": 15,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "data": [
         {
           "group": 3,
@@ -5572,9 +9183,15 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/003-001_20261026010218.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 13.95,
           "price1txt": "",
@@ -5687,9 +9304,15 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/003-002_20261026010237.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 17.95,
           "price1txt": "",
@@ -5891,11 +9514,23 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/003-005_20261026010256.jpg",
           "w": 267,
           "h": 150,
           "off": 0,
           "price1": 17.99,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+<<<<<<< HEAD
+          "price1": 17.99,
+=======
+          "price1": 15.95,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -6119,9 +9754,15 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/003-007_20261026010423.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 15.59,
           "price1txt": "",
@@ -6300,6 +9941,294 @@
         },
         {
           "group": 3,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+          "code": "003-017",
+          "description": "Pt Guisado de Res",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 15.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0080",
+              "itemname": "Pan",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0092",
+              "itemname": "Tortilla Mix",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0180",
+              "itemname": "No Pan/t",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Arroz",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Frijol",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Ensalada",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Salsa",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "Salsa Aparte",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "Salsa Roja",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "Salsa Verde",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 3,
+          "code": "003-016",
+          "description": "Pt Guisado de Lengua",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 16.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0080",
+              "itemname": "Pan",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0092",
+              "itemname": "Tortilla Mix",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0180",
+              "itemname": "No Pan/t",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Arroz",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Frijol",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Ensalada",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Salsa",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "Salsa Aparte",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "Salsa Roja",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "Salsa Verde",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 3,
+          "code": "003-010",
+          "description": "Pt Milanesa de Res",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 14.49,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0080",
+              "itemname": "Pan",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0092",
+              "itemname": "Tortilla Mix",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0180",
+              "itemname": "No Pan/t",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Arroz",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Frijol",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Ensalada",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "Carne Bien Dorada",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 3,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "003-011",
           "description": "Pt Fajitas",
           "taxlevel": 1,
@@ -6311,7 +10240,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 24.99,
+=======
+<<<<<<< HEAD
+          "price1": 24.99,
+=======
+          "price1": 22.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -6447,9 +10384,15 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/003-013_20261026010502.jpg",
           "w": 267,
           "h": 150,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "off": 0,
           "price1": 24.99,
           "price1txt": "",
@@ -6575,7 +10518,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 25.49,
+=======
+<<<<<<< HEAD
+          "price1": 25.49,
+=======
+          "price1": 26.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -6700,11 +10651,23 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
+<<<<<<< HEAD
           "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/003-014_20261026010729.jpg",
           "w": 267,
           "h": 150,
           "off": 0,
           "price1": 16.95,
+=======
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+<<<<<<< HEAD
+          "price1": 16.95,
+=======
+          "price1": 16.45,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -6830,18 +10793,119 @@
           "title2": "Second Option",
           "title3": "Third Option",
           "grouped": true
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        },
+        {
+          "group": 3,
+          "code": "003-015",
+          "description": "Pt Flautas",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 15.49,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0138",
+              "itemname": "Pollo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0073",
+              "itemname": "Deshebrada",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Queso",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Crema",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Guacamole",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "1 Flauta",
+              "extra": 2.99
+            },
+            {
+              "id": 6,
+              "comment": "2 Flauta",
+              "extra": 5.99
+            },
+            {
+              "id": 7,
+              "comment": "3 Flauta",
+              "extra": 8.99
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
         }
       ]
     },
     {
       "id": 9,
       "title": "Quesadillas",
+<<<<<<< HEAD
       "count": 6,
+=======
+<<<<<<< HEAD
+      "count": 6,
+=======
+      "count": 4,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "data": [
         {
           "group": 4,
           "code": "004-008",
+<<<<<<< HEAD
           "description": "Quesadilla de Queso",
+=======
+<<<<<<< HEAD
+          "description": "Quesadilla de Queso",
+=======
+          "description": "Quesadilla",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "taxlevel": 1,
           "taxname": "Food/Bev.",
           "taxrate": 0.0825,
@@ -6935,7 +10999,15 @@
         {
           "group": 4,
           "code": "004-005",
+<<<<<<< HEAD
           "description": "Quesadilla de Fajita",
+=======
+<<<<<<< HEAD
+          "description": "Quesadilla de Fajita",
+=======
+          "description": "Quesadilla de Carne",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "taxlevel": 1,
           "taxname": "Food/Bev.",
           "taxrate": 0.0825,
@@ -6945,6 +11017,10 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1": 9.99,
           "price1txt": "",
           "price2": 0,
@@ -6961,12 +11037,92 @@
             {
               "itemcode": "0138",
               "itemname": "Pollo",
+<<<<<<< HEAD
+=======
+=======
+          "price1": 6.99,
+          "price1txt": "Chic",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 9.99,
+          "price3txt": "Gran",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0067",
+              "itemname": "Asada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0068",
+              "itemname": "Pastor",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0069",
+              "itemname": "Barbacoa",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0070",
+              "itemname": "Carnitas",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0071",
+              "itemname": "Pollo Deshebrado",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0072",
+              "itemname": "Adobada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0073",
+              "itemname": "Deshebrada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0074",
+              "itemname": "Chicharron Verde",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0119",
+              "itemname": "Milanesa",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0094",
+              "itemname": "Carne/ Nopales",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0027",
+              "itemname": "Jamon",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0076",
+              "itemname": "Fajita de Res",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0077",
+              "itemname": "Fajita de Pollo",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
               "itemextra": 0
             },
             {
               "itemcode": "0133",
               "itemname": "Res Y Pollo",
               "itemextra": 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 1,
@@ -6982,6 +11138,20 @@
               "itemextra": 2
             }
           ],
+<<<<<<< HEAD
+=======
+=======
+            },
+            {
+              "itemcode": "0099",
+              "itemname": "Lengua",
+              "itemextra": 1
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "maxchoice3": 0,
           "choice3": [],
           "modifier": [
@@ -7055,7 +11225,15 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
           "price1": 12.99,
+=======
+<<<<<<< HEAD
+          "price1": 12.99,
+=======
+          "price1": 9.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -7071,7 +11249,15 @@
             {
               "itemcode": "0175",
               "itemname": "Grande",
+<<<<<<< HEAD
               "itemextra": 2
+=======
+<<<<<<< HEAD
+              "itemextra": 2
+=======
+              "itemextra": 3
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
@@ -7138,8 +11324,18 @@
         },
         {
           "group": 4,
+<<<<<<< HEAD
           "code": "004-010",
           "description": "Quesadilla de Lengua",
+=======
+<<<<<<< HEAD
+          "code": "004-010",
+          "description": "Quesadilla de Lengua",
+=======
+          "code": "004-007",
+          "description": "Super Quesadilla",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "taxlevel": 1,
           "taxname": "Food/Bev.",
           "taxrate": 0.0825,
@@ -7149,6 +11345,10 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1": 10.99,
           "price1txt": "",
           "price2": 0,
@@ -7244,6 +11444,12 @@
           "h": 0,
           "off": 0,
           "price1": 8.99,
+<<<<<<< HEAD
+=======
+=======
+          "price1": 9.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -7305,6 +11511,10 @@
               "itemcode": "0027",
               "itemname": "Jamon",
               "itemextra": 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 1,
@@ -7401,6 +11611,38 @@
           "price3txt": "",
           "maxchoice1": 0,
           "choice1": [],
+<<<<<<< HEAD
+=======
+=======
+            },
+            {
+              "itemcode": "0076",
+              "itemname": "Fajita de Res",
+              "itemextra": 3.49
+            },
+            {
+              "itemcode": "0077",
+              "itemname": "Fajita de Pollo",
+              "itemextra": 3.49
+            },
+            {
+              "itemcode": "0133",
+              "itemname": "Res Y Pollo",
+              "itemextra": 3.49
+            },
+            {
+              "itemcode": "0099",
+              "itemname": "Lengua",
+              "itemextra": 3.49
+            },
+            {
+              "itemcode": "0132",
+              "itemname": "Queso",
+              "itemextra": 0
+            }
+          ],
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "maxchoice2": 0,
           "choice2": [],
           "maxchoice3": 0,
@@ -7468,10 +11710,107 @@
     {
       "id": 10,
       "title": "Kids Meals",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
       "count": 4,
       "data": [
         {
           "group": 9,
+<<<<<<< HEAD
+=======
+=======
+      "count": 7,
+      "data": [
+        {
+          "group": 9,
+          "code": "009-001",
+          "description": "Enchilada Nino",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 6.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0132",
+              "itemname": "Queso",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0071",
+              "itemname": "Pollo Deshebrado",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0073",
+              "itemname": "Deshebrada",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Crema",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Queso",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 4,
+              "comment": "No Arroz",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "No Frijol",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "No Salsa",
+              "extra": 0
+            },
+            {
+              "id": 7,
+              "comment": "Salsa Aparte",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 9,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "code": "009-002",
           "description": "Desayuno de Niño",
           "taxlevel": 1,
@@ -7640,8 +11979,18 @@
         },
         {
           "group": 9,
+<<<<<<< HEAD
           "code": "009-008",
           "description": "Enchilada de Queso",
+=======
+<<<<<<< HEAD
+          "code": "009-008",
+          "description": "Enchilada de Queso",
+=======
+          "code": "009-003",
+          "description": "Quesadilla Nino",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "taxlevel": 1,
           "taxname": "Food/Bev.",
           "taxrate": 0.0825,
@@ -7666,6 +12015,10 @@
           "modifier": [
             {
               "id": 1,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
               "comment": "No Crema",
               "extra": 0
             },
@@ -7681,15 +12034,32 @@
             },
             {
               "id": 4,
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
               "comment": "No Arroz",
               "extra": 0
             },
             {
+<<<<<<< HEAD
               "id": 5,
+=======
+<<<<<<< HEAD
+              "id": 5,
+=======
+              "id": 2,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
               "comment": "No Frijol",
               "extra": 0
             },
             {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
               "id": 6,
               "comment": "No Salsa",
               "extra": 0
@@ -7697,6 +12067,13 @@
             {
               "id": 7,
               "comment": "Salsa Aparte",
+<<<<<<< HEAD
+=======
+=======
+              "id": 3,
+              "comment": "No Queso Fresco",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
               "extra": 0
             }
           ],
@@ -7708,8 +12085,18 @@
         },
         {
           "group": 9,
+<<<<<<< HEAD
           "code": "009-009",
           "description": "Cheese Quesadilla",
+=======
+<<<<<<< HEAD
+          "code": "009-009",
+          "description": "Cheese Quesadilla",
+=======
+          "code": "009-005",
+          "description": "Quesadilla Nino Con Carne",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "taxlevel": 1,
           "taxname": "Food/Bev.",
           "taxrate": 0.0825,
@@ -7719,6 +12106,10 @@
           "w": 0,
           "h": 0,
           "off": 0,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1": 5.99,
           "price1txt": "",
           "price2": 0,
@@ -7962,6 +12353,12 @@
           "h": 0,
           "off": 0,
           "price1": 4.99,
+<<<<<<< HEAD
+=======
+=======
+          "price1": 8.99,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -7970,6 +12367,10 @@
           "maxchoice1": 1,
           "choice1": [
             {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
               "itemcode": "0181",
               "itemname": "Modelo",
               "itemextra": 0
@@ -8023,13 +12424,155 @@
               "itemcode": "0191",
               "itemname": "Indio",
               "itemextra": 0
+<<<<<<< HEAD
+=======
+=======
+              "itemcode": "0067",
+              "itemname": "Asada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0068",
+              "itemname": "Pastor",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0069",
+              "itemname": "Barbacoa",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0070",
+              "itemname": "Carnitas",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0071",
+              "itemname": "Pollo Deshebrado",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0072",
+              "itemname": "Adobada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0073",
+              "itemname": "Deshebrada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0074",
+              "itemname": "Chicharron Verde",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0119",
+              "itemname": "Milanesa",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0094",
+              "itemname": "Carne/ Nopales",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0027",
+              "itemname": "Jamon",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0102",
+              "itemname": "Fajita Res",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0077",
+              "itemname": "Fajita de Pollo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0133",
+              "itemname": "Res Y Pollo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0099",
+              "itemname": "Lengua",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0123",
+              "itemname": "Camarones",
+              "itemextra": 3
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
             }
           ],
           "maxchoice2": 0,
           "choice2": [],
           "maxchoice3": 0,
           "choice3": [],
+<<<<<<< HEAD
           "modifier": [],
+=======
+<<<<<<< HEAD
+          "modifier": [],
+=======
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Extra Queso",
+              "extra": 1.5
+            },
+            {
+              "id": 2,
+              "comment": "Tomate",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Extra Fajita de Res",
+              "extra": 2.5
+            },
+            {
+              "id": 5,
+              "comment": "Extra Fajita de Pollo",
+              "extra": 3
+            },
+            {
+              "id": 6,
+              "comment": "Extra Lengua",
+              "extra": 2
+            },
+            {
+              "id": 7,
+              "comment": "Extra Carne",
+              "extra": 3.5
+            },
+            {
+              "id": 8,
+              "comment": "Tortilla Maiz Grande",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "No Bell Pepper",
+              "extra": 0
+            }
+          ],
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "topseller": false,
           "title1": "First Option",
           "title2": "Second Option",
@@ -8037,6 +12580,10 @@
           "grouped": true
         },
         {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "group": 19,
           "code": "019-003",
           "description": "Michelada",
@@ -8044,6 +12591,153 @@
           "taxname": "Alcohol",
           "taxrate": 0.0825,
           "idprinter": 0,
+<<<<<<< HEAD
+=======
+=======
+          "group": 9,
+          "code": "009-006",
+          "description": "Plato Carne de Nino",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 8.99,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0067",
+              "itemname": "Asada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0068",
+              "itemname": "Pastor",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0069",
+              "itemname": "Barbacoa",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0070",
+              "itemname": "Carnitas",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0071",
+              "itemname": "Pollo Deshebrado",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0072",
+              "itemname": "Adobada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0073",
+              "itemname": "Deshebrada",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0074",
+              "itemname": "Chicharron Verde",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0094",
+              "itemname": "Carne/ Nopales",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0102",
+              "itemname": "Fajita Res",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0077",
+              "itemname": "Fajita de Pollo",
+              "itemextra": 1
+            },
+            {
+              "itemcode": "0133",
+              "itemname": "Res Y Pollo",
+              "itemextra": 1
+            }
+          ],
+          "maxchoice2": 1,
+          "choice2": [
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0064",
+              "itemname": "T Trigo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0092",
+              "itemname": "Tortilla Mix",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0093",
+              "itemname": "No Tortilla",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "No Arroz",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "No Frijol",
+              "extra": 0
+            },
+            {
+              "id": 3,
+              "comment": "No Queso Fresco",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 9,
+          "code": "009-007",
+          "description": "Pancake Desayuno",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
           "htmlnotes": "",
           "htmlurl": "",
           "w": 0,
@@ -8058,6 +12752,10 @@
           "maxchoice1": 1,
           "choice1": [
             {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
               "itemcode": "0181",
               "itemname": "Modelo",
               "itemextra": 0
@@ -8198,6 +12896,48 @@
             {
               "itemcode": "0191",
               "itemname": "Indio",
+<<<<<<< HEAD
+=======
+=======
+              "itemcode": "0118",
+              "itemname": "Huevo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0159",
+              "itemname": "Huevo Chorizo",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0114",
+              "itemname": "Huevo Jamon",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0116",
+              "itemname": "Huevo Salchicha",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0049",
+              "itemname": "Huevo Con Papa",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0032",
+              "itemname": "Huevo Machacado",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0048",
+              "itemname": "Huevo Revuelto",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0047",
+              "itemname": "Huevo Mexicana",
+>>>>>>> b69fff521baa45f17081013e676f6a6946d3c7b0
+>>>>>>> 883228847d4f1fef2446cea118e0c307f5c2e34a
               "itemextra": 0
             }
           ],
