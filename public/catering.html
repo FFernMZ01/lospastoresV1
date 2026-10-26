@@ -12,7 +12,7 @@
   <link rel="icon" href="images/logo256.png">
   <link rel="apple-touch-icon" href="images/logo256.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
-  <link href="css/styles.css?v=11" rel="stylesheet" />
+  <link href="css/styles.css?v=12" rel="stylesheet" />
   <link href="css/footer.css?v=1" rel="stylesheet" />
 
 </head>
@@ -24,8 +24,8 @@
         <a class="navbar-brand d-lg-none" href="index.html">
           <img src="images/logo_color.png" alt="Los Pastores" class="logo">
         </a>
-        <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse"
-          data-bs-target="#lpNavbar" aria-controls="lpNavbar" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#lpNavbar"
+          aria-controls="lpNavbar" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="lpNavbar">
@@ -55,166 +55,194 @@
         <div class="lp-service-hero-copy">
           <span class="lp-section-eyebrow">Catering by Los Pastores</span>
           <h1 id="catering-title">Bring authentic flavor to your gathering.</h1>
-          <p>From family celebrations to company events, tell us what you’re planning and our team will help create a memorable meal for your guests.</p>
+          <p>From family celebrations to company events, tell us what you’re planning and our team will help create a
+            memorable meal for your guests.</p>
         </div>
         <div class="lp-service-hero-media">
-          <img src="images/LOS PASTORES 07.23.2026 14.webp" alt="A colorful taco platter and Mexican drink at Los Pastores">
+          <img src="images/LOS PASTORES 07.23.2026 14.webp"
+            alt="A colorful taco platter and Mexican drink at Los Pastores">
           <span class="lp-service-photo-label">Fort Worth, Texas</span>
         </div>
       </div>
     </section>
 
-  <!-- Catering Form -->
-  <section id="catering-form" class="lp-service-form-section">
-    <img class="lp-service-corner lp-service-corner-agave" src="svg/agave-corner.svg" alt="" aria-hidden="true">
-    <div class="container">
-      <div class="lp-service-form-heading">
-        <span class="lp-section-eyebrow">Catering Request</span>
-        <h2>Let’s plan your event.</h2>
-        <p>Share a few details about your gathering, and our team will contact you to discuss your catering needs.</p>
-      </div>
-      <div class="row gx-4 gx-lg-5 justify-content-center lp-service-form-row">
-        <div class="col-lg-8 col-xl-7 lp-service-form-card">
-          <h2 class="text-center text-dark mb-4 primary-font">Contact Information</h2>
-          <div class="form-floating mb-3">
-            <input class="form-control" id="fullname" type="text" placeholder="Full Name" style="box-shadow: none;"
-              required />
-            <label for="fullname">Full Name (required)</label>
-            <div id="m10e" class="text-chilered mt-1 mb-2"></div>
-          </div>
-          <div class="form-floating mb-3">
-            <input class="form-control" id="email" type="email" placeholder="Email" style="box-shadow: none;"
-              required />
-            <label for="email">Email (required)</label>
-            <div id="m11e" class="text-chilered mt-1 mb-2"></div>
-          </div>
-          <br>
-          <h2 class="text-center mb-4 primary-font text-dark">Catering Details</h2>
-          <div class="row">
-            <div class="col-md-6">
-              <div class="form-floating mb-3">
-                <select class="form-control form-select" id="eventtype" style="box-shadow: none;">
-                  <option value="-" disabled selected>Select an Option</option>
-                  <option value="Birthday Dinner">Birthday Dinner</option>
-                  <option value="Anniversary">Anniversary</option>
-                  <option value="Corporate Gathering">Corporate Gathering</option>
-                </select>
-                <label for="eventtype" class="text-mblue">Occasion</label>
-                <div id="m1e" class="text-chilered mt-1 mb-2"></div>
-              </div>
+    <!-- Catering Form -->
+    <section id="catering-form" class="lp-service-form-section">
+      <img class="lp-service-corner lp-service-corner-agave" src="svg/agave-corner.svg" alt="" aria-hidden="true">
+      <div class="container">
+        <div class="lp-service-form-heading">
+          <span class="lp-section-eyebrow">Catering Request</span>
+          <h2>Let’s plan your event.</h2>
+          <p>Share a few details about your gathering, and our team will contact you to discuss your catering needs.</p>
+          <span class="lp-employment-age-badge" role="note">
+            You must be 18 or older to apply.
+          </span>
+        </div>
+        <div class="row gx-4 gx-lg-5 justify-content-center lp-service-form-row">
+          <div class="col-lg-8 col-xl-7 lp-service-form-card">
+            <h2 class="text-center text-dark mb-4 primary-font">Contact Information</h2>
+            <div class="form-floating mb-3">
+              <input class="form-control" id="fullname" type="text" placeholder="Full Name" style="box-shadow: none;"
+                required />
+              <label for="fullname">Full Name (required)</label>
+              <div id="m10e" class="text-chilered mt-1 mb-2"></div>
             </div>
-            <div class="col-md-6">
-              <div class="form-floating mb-3">
+            <div class="form-floating mb-3">
+              <input class="form-control" id="email" type="email" placeholder="Email" style="box-shadow: none;"
+                required />
+              <label for="email">Email (required)</label>
+              <div id="m11e" class="text-chilered mt-1 mb-2"></div>
+            </div>
+            <br>
+            <h2 class="text-center mb-4 primary-font text-dark">Catering Details</h2>
+            <div class="row">
+              <div class="col-md-6">
                 <div class="form-floating mb-3">
-                  <input class="form-control" id="guest" type="text" placeholder="Number of People"
-                    style="box-shadow: none;" required />
-                  <label for="guest">Number of Guests</label>
-                  <div id="m3e" class="text-chilered mt-1 mb-2"></div>
+                  <select class="form-control form-select" id="eventtype" style="box-shadow: none;">
+                    <option value="-" disabled selected>Select an Option</option>
+                    <option value="Birthday Dinner">Birthday Dinner</option>
+                    <option value="Anniversary">Anniversary</option>
+                    <option value="Corporate Gathering">Corporate Gathering</option>
+                  </select>
+                  <label for="eventtype" class="text-mblue">Occasion</label>
+                  <div id="m1e" class="text-chilered mt-1 mb-2"></div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-floating mb-3">
+                  <div class="form-floating mb-3">
+                    <input class="form-control" id="guest" type="text" placeholder="Number of People"
+                      style="box-shadow: none;" required />
+                    <label for="guest">Number of Guests</label>
+                    <div id="m3e" class="text-chilered mt-1 mb-2"></div>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-          <div class="form-floating mb-3">
-            <input class="form-control" id="eventdate" type="text" value="mm/dd/yyyy" maxlength="80"
-              onclick="ChangeMonth(0)" placeholder="Event Date" style="box-shadow: none;" />
-            <label for="eventdate" class="text-mblue">Event Date</label>
+            <div class="form-floating mb-3">
+              <input class="form-control" id="eventdate" type="text" value="mm/dd/yyyy" maxlength="80"
+                onclick="ChangeMonth(0)" placeholder="Event Date" style="box-shadow: none;" />
+              <label for="eventdate" class="text-mblue">Event Date</label>
+              <div id="m4e" class="text-chilered mt-1 mb-2"></div>
+            </div>
             <div id="m4e" class="text-chilered mt-1 mb-2"></div>
-          </div>
-          <div id="m4e" class="text-chilered mt-1 mb-2"></div>
-          <div class="row">
-            <div class="col-md-6">
-              <div class="form-floating mb-3">
-                <select class="form-control form-select" id="starttime" style="box-shadow: none;">
-                  <option value="-" disabled selected>Preferred Serving Time</option>
-                  <option value="12pm">12pm</option>
-                  <option value="1pm">1pm</option>
-                  <option value="2pm">2pm</option>
-                  <option value="3pm">3pm</option>
-                  <option value="4pm">4pm</option>
-                  <option value="5pm">5pm</option>
-                  <option value="6pm">6pm</option>
-                  <option value="7pm">7pm</option>
-                  <option value="8pm">8pm</option>
-                  <option value="9pm">9pm</option>
-                  <option value="10pm">10pm</option>
-                </select>
-                <label for="starttime" class="text-mblue">Start Time</label>
-                <div id="m5e" class="text-chilered mt-1 mb-2"></div>
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-floating mb-3">
+                  <select class="form-control form-select" id="starttime" style="box-shadow: none;">
+                    <option value="-" disabled selected>Preferred Serving Time</option>
+                    <option value="12pm">12pm</option>
+                    <option value="1pm">1pm</option>
+                    <option value="2pm">2pm</option>
+                    <option value="3pm">3pm</option>
+                    <option value="4pm">4pm</option>
+                    <option value="5pm">5pm</option>
+                    <option value="6pm">6pm</option>
+                    <option value="7pm">7pm</option>
+                    <option value="8pm">8pm</option>
+                    <option value="9pm">9pm</option>
+                    <option value="10pm">10pm</option>
+                  </select>
+                  <label for="starttime" class="text-mblue">Start Time</label>
+                  <div id="m5e" class="text-chilered mt-1 mb-2"></div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-floating mb-3">
+                  <select class="form-control form-select" id="endtime" style="box-shadow: none;">
+                    <option value="-" disabled selected>Event End Time</option>
+                    <option value="12pm">12pm</option>
+                    <option value="1pm">1pm</option>
+                    <option value="2pm">2pm</option>
+                    <option value="3pm">3pm</option>
+                    <option value="4pm">4pm</option>
+                    <option value="5pm">5pm</option>
+                    <option value="6pm">6pm</option>
+                    <option value="7pm">7pm</option>
+                    <option value="8pm">8pm</option>
+                    <option value="9pm">9pm</option>
+                    <option value="10pm">10pm</option>
+                    <option value="11pm">11pm</option>
+                    <option value="12am">12am</option>
+                  </select>
+                  <label for="endtime" class="text-mblue">End Time</label>
+                  <div id="m6e" class="text-chilered mt-1 mb-2"></div>
+                </div>
               </div>
             </div>
-            <div class="col-md-6">
-              <div class="form-floating mb-3">
-                <select class="form-control form-select" id="endtime" style="box-shadow: none;">
-                  <option value="-" disabled selected>Event End Time</option>
-                  <option value="12pm">12pm</option>
-                  <option value="1pm">1pm</option>
-                  <option value="2pm">2pm</option>
-                  <option value="3pm">3pm</option>
-                  <option value="4pm">4pm</option>
-                  <option value="5pm">5pm</option>
-                  <option value="6pm">6pm</option>
-                  <option value="7pm">7pm</option>
-                  <option value="8pm">8pm</option>
-                  <option value="9pm">9pm</option>
-                  <option value="10pm">10pm</option>
-                  <option value="11pm">11pm</option>
-                  <option value="12am">12am</option>
-                </select>
-                <label for="endtime" class="text-mblue">End Time</label>
-                <div id="m6e" class="text-chilered mt-1 mb-2"></div>
+            <div class="form-floating mb-3">
+              <textarea class="form-control" id="message" type="text" placeholder="Message"
+                style="height: 6rem; box-shadow: none;"></textarea>
+              <label for="message">Additional Information (Optional)</label>
+            </div>
+            <div class="d-flex justify-content-center mt-4">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="check1" name="option1" value="something"
+                  style="box-shadow: none;">
+                <label for="check1" class="form-check-label second-font text-dark">I hereby agree to receive
+                  calls and
+                  messages
+                  regarding this catering request</label>
+                <div id="m9e" class="text-chilered mt-1 mb-2"></div>
               </div>
             </div>
-          </div>
-          <div class="form-floating mb-3">
-            <textarea class="form-control" id="message" type="text" placeholder="Message"
-              style="height: 6rem; box-shadow: none;"></textarea>
-            <label for="message">Additional Information (Optional)</label>
-          </div>
-          <div class="d-flex justify-content-center mt-4">
-            <div class="form-check">
-              <input class="form-check-input" type="checkbox" id="check1" name="option1" value="something"
-                style="box-shadow: none;">
-              <label for="check1" class="form-check-label second-font text-dark">I hereby agree to receive
-                calls and
-                messages
-                regarding this catering request</label>
-              <div id="m9e" class="text-chilered mt-1 mb-2"></div>
+            <div class="d-grid mywidth mt-3">
+              <button type="button" class="btn btn-custom btn-xl p-3" onclick="Step1()" aria-label="submit form">
+                Continue
+              </button>
             </div>
-          </div>
-          <div class="d-grid mywidth mt-3">
-            <button type="button" class="btn btn-custom btn-xl p-3" onclick="Step1()" aria-label="submit form"> Continue
-            </button>
           </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" data-bs-backdrop="static" data-bs-keyboard="false">
-    <div class="modal-dialog modal-dialog-centered">
-      <div class="modal-content">
-        <div class="modal-header">
-          <span class="modal-title" id="checkstep"></span>
-          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close the modal"></button>
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" data-bs-backdrop="static" data-bs-keyboard="false">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <span class="modal-title" id="checkstep"></span>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close the modal"></button>
+          </div>
+          <div class="modal-body" id="myCart"></div>
         </div>
-        <div class="modal-body" id="myCart"></div>
       </div>
     </div>
-  </div>
-  <div class="modal fade" id="popDialog" role="dialog" data-bs-backdrop="static" data-bs-keyboard="false"
-    style="z-index: 9000; display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(255, 255, 255, 0.8); justify-content: center; align-items: center;">
-  </div>
+    <div class="modal fade" id="popDialog" role="dialog" data-bs-backdrop="static" data-bs-keyboard="false"
+      style="z-index: 9000; display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(255, 255, 255, 0.8); justify-content: center; align-items: center;">
+    </div>
   </main>
 
   <footer class="lp-global-footer" id="footer">
     <div class="lp-container">
       <div class="lp-global-footer-main">
-        <div class="lp-global-footer-brand"><a href="index.html" aria-label="Los Pastores home"><img src="images/logo_color.png" alt="Los Pastores Restaurante"></a><p>Lo Mejor de Mexico en el patio de tu casa</p></div>
-        <nav class="lp-global-footer-nav" aria-label="Footer navigation"><a href="index.html">Home</a><a href="menu.html">Menu</a><a href="about.html">About Us</a><a href="catering.html">Catering</a><a href="jobs.html">Jobs</a><a href="contact.html">Contact</a></nav>
-        <div class="lp-global-footer-contact"><a href="tel:+18170000000"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6.6 10.8a15.5 15.5 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.24c1.08.36 2.24.54 3.42.54a1 1 0 0 1 1 1V20a1 1 0 0 1-1 1C10.54 21 3 13.46 3 4.18a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.18.18 2.34.54 3.42a1 1 0 0 1-.24 1z"/></svg><span>(817) 000-0000</span></a><a href="mailto:info@lospastores.com"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 4-8 5-8-5V6l8 5 8-5v2Z"/></svg><span>info@lospastores.com</span></a></div>
+        <div class="lp-global-footer-brand"><a href="index.html" aria-label="Los Pastores home"><img
+              src="images/logo_color.png" alt="Los Pastores Restaurante"></a>
+          <p>Lo Mejor de Mexico en el patio de tu casa</p>
+        </div>
+        <nav class="lp-global-footer-nav" aria-label="Footer navigation"><a href="index.html">Home</a><a
+            href="menu.html">Menu</a><a href="about.html">About Us</a><a href="catering.html">Catering</a><a
+            href="jobs.html">Jobs</a><a href="contact.html">Contact</a></nav>
+        <div class="lp-global-footer-contact"><a href="tel:+18170000000"><svg viewBox="0 0 24 24" aria-hidden="true">
+              <path fill="currentColor"
+                d="M6.6 10.8a15.5 15.5 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.24c1.08.36 2.24.54 3.42.54a1 1 0 0 1 1 1V20a1 1 0 0 1-1 1C10.54 21 3 13.46 3 4.18a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.18.18 2.34.54 3.42a1 1 0 0 1-.24 1z" />
+            </svg><span>(817) 000-0000</span></a><a href="mailto:info@lospastores.com"><svg viewBox="0 0 24 24"
+              aria-hidden="true">
+              <path fill="currentColor"
+                d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Zm0 4-8 5-8-5V6l8 5 8-5v2Z" />
+            </svg><span>info@lospastores.com</span></a></div>
       </div>
       <div class="lp-global-footer-divider" aria-hidden="true"></div>
-      <div class="lp-global-footer-lower"><div class="lp-global-footer-socials"><a href="#" aria-label="Facebook"><img src="svg/facebook.svg" alt=""></a><a href="#" aria-label="Instagram"><img src="svg/instagram.svg" alt=""></a><a href="#" aria-label="TikTok"><img src="svg/tiktok.svg" alt=""></a></div><div class="lp-global-footer-legal"><p>© 2026 Los Pastores Restaurante — All Rights Reserved</p><p>Powered by <a href="https://kukipos.com">KukiPOS</a></p><div class="lp-global-footer-terms"><a href="#">Terms of Use</a><span aria-hidden="true">|</span><a href="#">Privacy Notice</a></div></div></div>
+      <div class="lp-global-footer-lower">
+        <div class="lp-global-footer-socials"><a href="#" aria-label="Facebook"><img src="svg/facebook.svg"
+              alt=""></a><a href="#" aria-label="Instagram"><img src="svg/instagram.svg" alt=""></a><a href="#"
+            aria-label="TikTok"><img src="svg/tiktok.svg" alt=""></a></div>
+        <div class="lp-global-footer-legal">
+          <p>© 2026 Los Pastores Restaurante — All Rights Reserved</p>
+          <p>Powered by <a href="https://kukipos.com">KukiPOS</a></p>
+          <div class="lp-global-footer-terms"><a href="#">Terms of Use</a><span aria-hidden="true">|</span><a
+              href="#">Privacy Notice</a></div>
+        </div>
+      </div>
     </div>
   </footer>
 
