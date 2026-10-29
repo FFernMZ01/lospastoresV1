@@ -235,6 +235,60 @@ async function initMap() {
 
 document.addEventListener("DOMContentLoaded", initMap);
 
+async function initMap() {
+  const mapEl = document.getElementById("map");
+  if (!mapEl) return;
+
+  try {
+    await loadGoogleMaps();
+
+    const { Map } = await google.maps.importLibrary("maps");
+    const { AdvancedMarkerElement } =
+      await google.maps.importLibrary("marker");
+
+    const position = {
+      lat: LOCATION.lat,
+      lng: LOCATION.lng,
+    };
+
+    const map = new Map(mapEl, {
+      center: position,
+      zoom: 15,
+      mapId: MAP_ID,
+      gestureHandling: "greedy",
+    });
+
+    const marker = new AdvancedMarkerElement({
+      map,
+      position,
+      title: `${LOCATION.brand} - ${LOCATION.branch}`,
+    });
+
+    marker.addListener("click", () => {
+      if (LOCATION.url) {
+        window.open(LOCATION.url, "_blank", "noopener,noreferrer");
+      }
+    });
+  } catch (error) {
+    console.error("Google Maps failed to load:", error);
+
+    mapEl.innerHTML = `
+      <div class="about-map-error">
+        <p>Map temporarily unavailable.</p>
+        <a href="${LOCATION.url}" target="_blank" rel="noopener noreferrer">
+          View us on Google Maps
+        </a>
+      </div>
+    `;
+  }
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initMap);
+} else {
+  initMap();
+}
+
 /////////////////////////////////////////////////////////////////////////////////////////////
 
 

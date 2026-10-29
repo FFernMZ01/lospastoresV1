@@ -1236,6 +1236,11 @@
               "itemcode": "0064",
               "itemname": "T Trigo",
               "itemextra": 0
+            },
+            {
+              "itemcode": "0206",
+              "itemname": "T Hecha a Mano",
+              "itemextra": 0
             }
           ],
           "maxchoice3": 0,
@@ -1719,9 +1724,9 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
-          "htmlurl": "",
-          "w": 0,
-          "h": 0,
+          "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/001-026_20261028074440.jpg",
+          "w": 267,
+          "h": 150,
           "off": 0,
           "price1": 13.99,
           "price1txt": "",
@@ -3107,9 +3112,9 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
-          "htmlurl": "",
-          "w": 0,
-          "h": 0,
+          "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/005-009_20261028074231.jpg",
+          "w": 267,
+          "h": 150,
           "off": 0,
           "price1": 10.95,
           "price1txt": "",
@@ -3829,7 +3834,7 @@
           "w": 0,
           "h": 0,
           "off": 0,
-          "price1": 11.25,
+          "price1": 7.25,
           "price1txt": "",
           "price2": 0,
           "price2txt": "",
@@ -3880,7 +3885,7 @@
     {
       "id": 6,
       "title": "Tacos",
-      "count": 10,
+      "count": 12,
       "data": [
         {
           "group": 8,
@@ -3911,6 +3916,11 @@
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+              "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
               "itemextra": 3.99
             }
           ],
@@ -4036,6 +4046,11 @@
               "itemcode": "0063",
               "itemname": "T Harina",
               "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
+              "itemextra": 3.99
             }
           ],
           "maxchoice2": 0,
@@ -4159,6 +4174,11 @@
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+              "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
               "itemextra": 3.99
             }
           ],
@@ -4284,6 +4304,11 @@
               "itemcode": "0063",
               "itemname": "T Harina",
               "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
+              "itemextra": 3.99
             }
           ],
           "maxchoice2": 0,
@@ -4407,6 +4432,11 @@
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+              "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
               "itemextra": 3.99
             }
           ],
@@ -4532,6 +4562,11 @@
               "itemcode": "0063",
               "itemname": "T Harina",
               "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
+              "itemextra": 3.99
             }
           ],
           "maxchoice2": 0,
@@ -4655,6 +4690,11 @@
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+              "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
               "itemextra": 3.99
             }
           ],
@@ -4780,6 +4820,11 @@
               "itemcode": "0063",
               "itemname": "T Harina",
               "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
+              "itemextra": 3.99
             }
           ],
           "maxchoice2": 0,
@@ -4903,6 +4948,11 @@
             {
               "itemcode": "0063",
               "itemname": "T Harina",
+              "itemextra": 4.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
               "itemextra": 4.99
             }
           ],
@@ -5028,6 +5078,269 @@
               "itemcode": "0063",
               "itemname": "T Harina",
               "itemextra": 4.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
+              "itemextra": 4.99
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Extra Carne",
+              "extra": 1
+            },
+            {
+              "id": 2,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Cebolla",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Queso",
+              "extra": 0.75
+            },
+            {
+              "id": 5,
+              "comment": "Chile Toreado",
+              "extra": 0.5
+            },
+            {
+              "id": 6,
+              "comment": "Jalapeños Curtidos",
+              "extra": 0.75
+            },
+            {
+              "id": 7,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Repollo",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Verdura",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "Verdura Aparte",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 13,
+              "comment": "No Jalapeno",
+              "extra": 0
+            },
+            {
+              "id": 14,
+              "comment": "Con Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 15,
+              "comment": "Aguacate",
+              "extra": 0.25
+            },
+            {
+              "id": 16,
+              "comment": "Guacamole",
+              "extra": 0.5
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 8,
+          "code": "008-023",
+          "description": "Taco Chicharron",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/008-001_20261026124539.jpg",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 0,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 2.99
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
+              "itemextra": 3.99
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Extra Carne",
+              "extra": 1
+            },
+            {
+              "id": 2,
+              "comment": "Cilantro",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Cebolla",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Queso",
+              "extra": 0.75
+            },
+            {
+              "id": 5,
+              "comment": "Chile Toreado",
+              "extra": 0.5
+            },
+            {
+              "id": 6,
+              "comment": "Jalapeños Curtidos",
+              "extra": 0.75
+            },
+            {
+              "id": 7,
+              "comment": "No Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 8,
+              "comment": "No Repollo",
+              "extra": 0
+            },
+            {
+              "id": 9,
+              "comment": "No Verdura",
+              "extra": 0
+            },
+            {
+              "id": 10,
+              "comment": "Verdura Aparte",
+              "extra": 0
+            },
+            {
+              "id": 11,
+              "comment": "No Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 12,
+              "comment": "No Tomate",
+              "extra": 0
+            },
+            {
+              "id": 13,
+              "comment": "No Jalapeno",
+              "extra": 0
+            },
+            {
+              "id": 14,
+              "comment": "Con Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 15,
+              "comment": "Aguacate",
+              "extra": 0.25
+            },
+            {
+              "id": 16,
+              "comment": "Guacamole",
+              "extra": 0.5
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 8,
+          "code": "008-024",
+          "description": "Taco Lengua",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 2,
+          "htmlnotes": "",
+          "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/008-001_20261026124539.jpg",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 0,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0081",
+              "itemname": "T Maiz",
+              "itemextra": 2.99
+            },
+            {
+              "itemcode": "0063",
+              "itemname": "T Harina",
+              "itemextra": 3.99
+            },
+            {
+              "itemcode": "0207",
+              "itemname": "T Hecha Mano",
+              "itemextra": 3.99
             }
           ],
           "maxchoice2": 0,
@@ -5127,7 +5440,7 @@
     {
       "id": 7,
       "title": "Burritos",
-      "count": 3,
+      "count": 4,
       "data": [
         {
           "group": 2,
@@ -5547,6 +5860,100 @@
             {
               "id": 12,
               "comment": "No Tomate",
+              "extra": 0
+            }
+          ],
+          "topseller": false,
+          "title1": "First Option",
+          "title2": "Second Option",
+          "title3": "Third Option",
+          "grouped": true
+        },
+        {
+          "group": 2,
+          "code": "002-007",
+          "description": "Gordita",
+          "taxlevel": 1,
+          "taxname": "Food/Bev.",
+          "taxrate": 0.0825,
+          "idprinter": 8,
+          "htmlnotes": "",
+          "htmlurl": "",
+          "w": 0,
+          "h": 0,
+          "off": 0,
+          "price1": 4.25,
+          "price1txt": "",
+          "price2": 0,
+          "price2txt": "",
+          "price3": 0,
+          "price3txt": "",
+          "maxchoice1": 1,
+          "choice1": [
+            {
+              "itemcode": "0043",
+              "itemname": "Frijoles",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0132",
+              "itemname": "Queso",
+              "itemextra": 0
+            },
+            {
+              "itemcode": "0095",
+              "itemname": "Frijoles Con Queso",
+              "itemextra": 0
+            }
+          ],
+          "maxchoice2": 0,
+          "choice2": [],
+          "maxchoice3": 0,
+          "choice3": [],
+          "modifier": [
+            {
+              "id": 1,
+              "comment": "Frijoles",
+              "extra": 0
+            },
+            {
+              "id": 2,
+              "comment": "Queso",
+              "extra": 0.5
+            },
+            {
+              "id": 3,
+              "comment": "Crema",
+              "extra": 0.5
+            },
+            {
+              "id": 4,
+              "comment": "Cebolla",
+              "extra": 0
+            },
+            {
+              "id": 5,
+              "comment": "Cilantro",
+              "extra": 0
+            },
+            {
+              "id": 6,
+              "comment": "Papa",
+              "extra": 0.5
+            },
+            {
+              "id": 7,
+              "comment": "Tocino",
+              "extra": 0.5
+            },
+            {
+              "id": 8,
+              "comment": "Jamon",
+              "extra": 0.5
+            },
+            {
+              "id": 9,
+              "comment": "No Queso",
               "extra": 0
             }
           ],
@@ -7239,9 +7646,9 @@
           "taxrate": 0.0825,
           "idprinter": 2,
           "htmlnotes": "",
-          "htmlurl": "",
-          "w": 0,
-          "h": 0,
+          "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/004-011_20261028074409.jpg",
+          "w": 267,
+          "h": 150,
           "off": 0,
           "price1": 8.99,
           "price1txt": "",
@@ -7594,9 +8001,9 @@
           "taxrate": 0.0825,
           "idprinter": 8,
           "htmlnotes": "",
-          "htmlurl": "",
-          "w": 0,
-          "h": 0,
+          "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/009-004_20261028074314.jpg",
+          "w": 267,
+          "h": 150,
           "off": 0,
           "price1": 8.99,
           "price1txt": "",
@@ -7886,9 +8293,9 @@
           "taxrate": 0.0825,
           "idprinter": 0,
           "htmlnotes": "",
-          "htmlurl": "",
-          "w": 0,
-          "h": 0,
+          "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/011-008_20261028074342.jpg",
+          "w": 267,
+          "h": 150,
           "off": 0,
           "price1": 6.5,
           "price1txt": "",
@@ -8045,9 +8452,9 @@
           "taxrate": 0.0825,
           "idprinter": 0,
           "htmlnotes": "",
-          "htmlurl": "",
-          "w": 0,
-          "h": 0,
+          "htmlurl": "https://kukiblob.blob.core.windows.net/pastoresresta/019-003_20261028074540.jpg",
+          "w": 267,
+          "h": 150,
           "off": 0,
           "price1": 7.99,
           "price1txt": "",

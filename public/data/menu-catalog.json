@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T06:26:07.185Z",
+  "generatedAt": "2026-10-29T00:46:43.026Z",
   "source": "KukiPOS",
   "storeToken": "OT-Pastores",
   "restaurant": "Los Pastores",
@@ -134,9 +134,9 @@
           "name": "Chilaquiles",
           "description": "",
           "price": "$13.99",
-          "image": "",
-          "imageSource": "",
-          "apiImage": "",
+          "image": "https://kukiblob.blob.core.windows.net/pastoresresta/001-026_20261028074440.jpg",
+          "imageSource": "kukipos",
+          "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/001-026_20261028074440.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=001-026"
         },
         {
@@ -278,9 +278,9 @@
           "name": "Tostada",
           "description": "",
           "price": "$10.95",
-          "image": "",
-          "imageSource": "",
-          "apiImage": "",
+          "image": "https://kukiblob.blob.core.windows.net/pastoresresta/005-009_20261028074231.jpg",
+          "imageSource": "kukipos",
+          "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/005-009_20261028074231.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=005-009"
         }
       ]
@@ -361,7 +361,7 @@
           "code": "007-010",
           "name": "Ensalada Faj Pollo",
           "description": "",
-          "price": "$11.25",
+          "price": "$7.25",
           "image": "",
           "imageSource": "",
           "apiImage": "",
@@ -473,6 +473,26 @@
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=008-019"
+        },
+        {
+          "code": "008-023",
+          "name": "Taco Chicharron",
+          "description": "",
+          "price": "See online",
+          "image": "https://kukiblob.blob.core.windows.net/pastoresresta/008-001_20261026124539.jpg",
+          "imageSource": "kukipos",
+          "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/008-001_20261026124539.jpg",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=008-023"
+        },
+        {
+          "code": "008-024",
+          "name": "Taco Lengua",
+          "description": "",
+          "price": "See online",
+          "image": "https://kukiblob.blob.core.windows.net/pastoresresta/008-001_20261026124539.jpg",
+          "imageSource": "kukipos",
+          "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/008-001_20261026124539.jpg",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=008-024"
         }
       ]
     },
@@ -510,6 +530,16 @@
           "imageSource": "",
           "apiImage": "",
           "orderUrl": "order/index.html?id=OT-Pastores&code=002-005"
+        },
+        {
+          "code": "002-007",
+          "name": "Gordita",
+          "description": "",
+          "price": "$4.25",
+          "image": "",
+          "imageSource": "",
+          "apiImage": "",
+          "orderUrl": "order/index.html?id=OT-Pastores&code=002-007"
         }
       ]
     },
@@ -680,9 +710,9 @@
           "name": "Quesadilla de Carne",
           "description": "",
           "price": "$8.99",
-          "image": "",
-          "imageSource": "",
-          "apiImage": "",
+          "image": "https://kukiblob.blob.core.windows.net/pastoresresta/004-011_20261028074409.jpg",
+          "imageSource": "kukipos",
+          "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/004-011_20261028074409.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=004-011"
         },
         {
@@ -717,9 +747,9 @@
           "name": "Chicken Strips W/ Fries & Rice",
           "description": "",
           "price": "$8.99",
-          "image": "",
-          "imageSource": "",
-          "apiImage": "",
+          "image": "https://kukiblob.blob.core.windows.net/pastoresresta/009-004_20261028074314.jpg",
+          "imageSource": "kukipos",
+          "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/009-004_20261028074314.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=009-004"
         },
         {
@@ -784,9 +814,9 @@
           "name": "Chocoflan",
           "description": "",
           "price": "$6.50",
-          "image": "",
-          "imageSource": "",
-          "apiImage": "",
+          "image": "https://kukiblob.blob.core.windows.net/pastoresresta/011-008_20261028074342.jpg",
+          "imageSource": "kukipos",
+          "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/011-008_20261028074342.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=011-008"
         }
       ]
@@ -821,9 +851,9 @@
           "name": "Michelada",
           "description": "",
           "price": "$7.99",
-          "image": "",
-          "imageSource": "",
-          "apiImage": "",
+          "image": "https://kukiblob.blob.core.windows.net/pastoresresta/019-003_20261028074540.jpg",
+          "imageSource": "kukipos",
+          "apiImage": "https://kukiblob.blob.core.windows.net/pastoresresta/019-003_20261028074540.jpg",
           "orderUrl": "order/index.html?id=OT-Pastores&code=019-003"
         },
         {
@@ -839,5 +869,5 @@
       ]
     }
   ],
-  "itemCount": 75
+  "itemCount": 78
 }
