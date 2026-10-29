@@ -204,38 +204,6 @@ function loadGoogleMaps() {
 }
 
 async function initMap() {
-  await loadGoogleMaps();
-
-  const { Map } = await google.maps.importLibrary("maps");
-  const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
-
-  const position = { lat: LOCATION.lat, lng: LOCATION.lng };
-
-  const mapEl = document.getElementById("map");
-  if (!mapEl) return;
-
-  const map = new Map(mapEl, {
-    center: position,
-    zoom: 15,
-    mapId: MAP_ID,
-    gestureHandling: "greedy",
-  });
-
-  // Default marker (no "content" passed)
-  const marker = new AdvancedMarkerElement({
-    map,
-    position,
-    title: `${LOCATION.brand} - ${LOCATION.branch}`,
-  });
-
-  marker.addListener("click", () => {
-    if (LOCATION.url) window.open(LOCATION.url, "_blank", "noopener,noreferrer");
-  });
-}
-
-document.addEventListener("DOMContentLoaded", initMap);
-
-async function initMap() {
   const mapEl = document.getElementById("map");
   if (!mapEl) return;
 

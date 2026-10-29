@@ -1071,11 +1071,28 @@
 ========================= */
 
 @media (max-width: 991.98px) {
+  .lp-navbar > .container {
+    display: flex;
+    align-items: center;
+  }
+
+  .lp-order-btn-mobile {
+    margin-left: auto;
+    padding: 8px 14px;
+    font-size: 14px;
+  }
+
+  .lp-order-btn-desktop {
+    display: none !important;
+  }
+
   .lp-navbar .logo {
     width: 140px;
     max-height: 65px;
   }
   .lp-navbar .navbar-collapse {
+    flex-basis: 100%;
+    order: 3;
     padding: 20px 0;
   }
   .lp-nav-group {
